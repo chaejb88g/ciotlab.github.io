@@ -57,7 +57,7 @@ members_info:
       - name: "채준병(Jun Byung Chae)"
         research: "AI Communications"
         image: "/assets/images/art/profile/profile_master_chaejunbyung.jpg"
-        email: "wnsqudco@naver.com"
+        email: "chaejb88@g.skku.edu"
 
       - name: "Ghafar Ramadhan Faqih"
         research: "Bio Signal Acquisition and Processing"
@@ -80,9 +80,24 @@ members_info:
         email: "jhcho9811@naver.com"
         
       - name: "박지용(Ji Yong Park)"
-        research: "Radar Signal processing"
+        research: "Sensor Intelligence"
         image: "/assets/images/art/profile/profile_undergraduate_parkjiyong.jpg"
         email: "qkr1020@skku.edu"         
+                
+      - name: "정민준(Min Jun Jung)"
+        research: "Sensor Intelligence"
+        image: "/assets/images/art/profile/profile_undergraduate_jungminjun.jpg"
+        email: "minjun96@o365.skku.edu"  
+                
+      - name: "김성호(Seong Ho Kim)"
+        research: "AI Communications"
+        image: "/assets/images/art/profile/profile_master_kimseongho.jpg"
+        email: "shkoma@g.skku.edu"  
+                
+      - name: "박건아(Geona Park)"
+        research: "Radar Signal processing"
+        image: "/assets/images/art/profile/profile_master_parkgeona.jpg"
+        email: "geona@g.skku.edu"  
         
    - title: "Undergraduate"
      members:     
@@ -90,6 +105,26 @@ members_info:
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_undergraduate_yoonjunhui.jpg"
         email: "yjh990209@g.skku.edu"      
+        
+      - name: "이주원(Joo Won Lee)"
+        research: "Wireless Communication"
+        image: "/assets/images/art/profile/profile_undergraduate_leejoowon.jpg"
+        email: "joowonyeri@gmail.com"     
+        
+      - name: "성여원(Yeo Won Seong)"
+        research: "Wireless Communication"
+        image: "/assets/images/art/profile/profile_undergraduate_seongyeowon.jpg"
+        email: "min1102401@g.skku.edu"     
+        
+      - name: "조성우(Sung Woo Cho)"
+        research: "Wireless Communication"
+        image: "/assets/images/art/profile/profile_undergraduate_sungwoocho.jpg"
+        email: "luckycho@g.skku.edu"     
+        
+      - name: "최윤정(Jeong Yoon Choi)"
+        research: "Bio Signal Acquisition and Processing"
+        image: "/assets/images/art/profile/profile_undergraduate_yoonjungchoi.jpg"
+        email: "qrs998@g.skku.edu"    
    
    - title: "Alumni"
      members:
