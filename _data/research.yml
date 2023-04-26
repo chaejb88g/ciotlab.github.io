@@ -98,8 +98,7 @@ research_area:
      - p: "We have developed an 802.11ax based communication simulator and agent that can be implemented in the form of Discrete Event Simulation (DES). We have created a user-friendly interface using Python and visualization tools to aid in the simulation process.Moreover, we have created reinforcement learning models using value-based algorithms such as Deep Q-Network (DQN), Double DQN (DDQN), and Rainbow DQN, as well as policy-based and actor-critic algorithms such as REINFORCE, Advantage Actor-Critic (A2C), and Proximal Policy Optimization (PPO)."
   - title: "Integrated Sensing and Communication"
     main_images:
-     - img: "/assets/images/art/research/sensing_and_communication_1.JPG"
-     - img: "/assets/images/art/research/sensing_and_communication_2.JPG"
+     - img: "/assets/images/art/research/research_sensing_and_communication.jpg"
     overview: 
      - p: "ISAC technology is based on the fact that both wireless communication and radar sensing areas use electromagnetic waves. We are researching the integration of communication and sensing at the millimeter wave (mmwave) and sub-THz band, where communication uses a relatively low frequency band and sensing uses a high frequency band that can obtain high resolution."
     challenge: 
@@ -116,6 +115,17 @@ research_area:
      - p: "In this research, an IR-UWB MIMO Radar system is configured with Multi-Input, Multi-Output (MIMO) technology on the Impulse Radar Ultra-Wide Band (IR-UWB) sensor. A large amount of RF signal data is collected for many people and various postures."
     process: 
      - p: "The research focuses on RF signal-based pose estimation deep learning model, which applies collected RF signal data to a feature extraction module. The posture of a person located in an invisible space is estimated using Transformer, an attention-based deep learning model. This research can have significant implications in fields such as surveillance, rescue operations, and security."
+- title: "6G Sub-THz"
+    main_images:
+     - img: "/assets/images/art/research/research_6g_sub_thz_1.jpg"
+    sub_images:
+     - img: "/assets/images/art/research/research_6g_sub_thz_2.jpg"
+    overview: 
+     - p: "The sub-THz band has the potential to provide ultra-high-speed communication due to its wide bandwidth. However, this band is challenging due to the high attenuation, propagation loss, and hardware constraints. Researchers are working on exploring the sub-THz channel's characteristics, including reflection, diffraction, and transmission, to improve the transmission performance."
+    challenge: 
+     - p: "One of the main challenges in sub-THz communication is the hardware limitation of the transceiver due to the high operating frequency. Line-of-sight (LoS) MIMO and hybrid beamforming technology have been proposed to overcome the hardware constraint and achieve better channel capacity. Moreover, RF impairments such as Phase noise, which affects the sub-THz band's transmission quality, are being compensated through various methods."
+    process: 
+     - p: "Researchers are setting up sub-THz testbeds to observe and analyze the sub-THz band's RF impairments, such as Phase noise. Real-time compensation algorithms are being developed to improve the communication quality in the sub-THz band. Additionally, researchers are working on developing new techniques to utilize the sub-THz band more efficiently, which will be useful in the design of the next-generation wireless communication system."
 
 
 
