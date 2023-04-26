@@ -117,7 +117,7 @@ research_area:
      - p: "In this research, an IR-UWB MIMO Radar system is configured with Multi-Input, Multi-Output (MIMO) technology on the Impulse Radar Ultra-Wide Band (IR-UWB) sensor. A large amount of RF signal data is collected for many people and various postures."
     process: 
      - p: "The research focuses on RF signal-based pose estimation deep learning model, which applies collected RF signal data to a feature extraction module. The posture of a person located in an invisible space is estimated using Transformer, an attention-based deep learning model. This research can have significant implications in fields such as surveillance, rescue operations, and security."
-- title: "6G Sub-THz"
+  - title: "6G Sub-THz"
     main_images:
      - img: "/assets/images/art/research/research_6g_sub_thz_1.jpg"
     sub_images:
