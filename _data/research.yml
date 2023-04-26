@@ -126,7 +126,18 @@ research_area:
      - p: "One of the main challenges in sub-THz communication is the hardware limitation of the transceiver due to the high operating frequency. Line-of-sight (LoS) MIMO and hybrid beamforming technology have been proposed to overcome the hardware constraint and achieve better channel capacity. Moreover, RF impairments such as Phase noise, which affects the sub-THz band's transmission quality, are being compensated through various methods."
     process: 
      - p: "Researchers are setting up sub-THz testbeds to observe and analyze the sub-THz band's RF impairments, such as Phase noise. Real-time compensation algorithms are being developed to improve the communication quality in the sub-THz band. Additionally, researchers are working on developing new techniques to utilize the sub-THz band more efficiently, which will be useful in the design of the next-generation wireless communication system."
-
+  - title: "Cell-Free MIMO"
+    main_images:
+     - img: "/assets/images/art/research/research_cell_free_mimo_1.JPG"
+    sub_images:
+     - img: "/assets/images/art/research/research_cell_free_mimo_2.JPG"
+    overview: 
+     - p: "Cell-Free MIMO is a wireless communication technology that provides simultaneous service to multiple users across a wide area, without clearly defined cell service boundaries. In contrast to conventional cellular communication, it uses a user-centric cell with protected UEs. This technology allows a cluster of nearby APs to be assigned to each UE, with multi-antenna APs and UEs assumed."
+    challenge: 
+     - p: "The main challenge of Cell-Free MIMO technology is to maintain a set of “protected UEs” for each cell and minimize interference to them. The system also requires real-time exchange of information and calculations between base stations, which presents significant computational and architectural challenges."
+    process: 
+     - p: "Cell-Free MIMO technology is designed for distributed CPU, which means there is no dedicated hardware for CPU. Instead, each AP retains the capability of CPU so that all APs have an identical architecture. Each cell has a primary AP and others are called secondary APs. The primary AP performs high PHY signal processing and distributes the data stream to secondary APs. It also gathers channel information and computes the precoding matrix. This technology assumes multi-layer communications, and downlink OFDM communications are used."
+  
 
 
 
