@@ -6,10 +6,6 @@ research_area:
      - link: "Ls53PUzJDsA"
     overview: 
      - p: "In this research project, we aim to develop a mmWave communications system based on reconfigurable metasurface. By adopting reconfigurable metasurface technology to ultra high frequency range communication technology, we can overcome inevitable limitations caused by using high frequency electromagnetic wave such as tremendous amount of path loss and shaded area due to the high straight forwardness characteristic."
-    challenge: 
-     - p: "To this end, we study the channel estimation, beamforming and precoding techniques for reconfigurable metasurface with the theoritical analysis of overall system. Moreover, we also research the direct modulation technology of metasurface for massive multi user holographic communication. The proposed communication system and reconfigurable metasurface will be tested on a prototype testbed to verify the practical applicability of the developed techniques."
-    process: 
-     - p: "To this end, we study the channel estimation, beamforming and precoding techniques for reconfigurable metasurface with the theoritical analysis of overall system. Moreover, we also research the direct modulation technology of metasurface for massive multi user holographic communication. The proposed communication system and reconfigurable metasurface will be tested on a prototype testbed to verify the practical applicability of the developed techniques."
   - title: "Energy Maintenance Wireless Power Camera System"
     main_images:
      - img: "/assets/images/art/research/research_wireless_power_camera_system.jpg"
