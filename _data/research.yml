@@ -68,3 +68,13 @@ research_area:
      - p: "We can modify the parameters such as modulation order, transmit power, and basis vector size, etc. in the top-level VI of the LabVIEW code and check the performance metrics such as bit-error rate (BER), signal-to-noise ratio (SNR), channel gain, and signal constellation of each receiver. We have conducted experiments that measure these performance metrics according to various parameters."
     process: 
      - p: "And one of the many challenges in the development and evaluation of these wireless systems is testing and verification. Therefore, the radio system must be tested to ensure specified requirement. But field tests are expensive, time-consuming, and difficult to repeat. Simulation can overcome these problems, but ultimately it is limited to accuracy or excessive running time. One way to compensate for these limitations is the real-time HIL channel emulation. This can compensate for the gap between simulation and field testing. A good channel emulator can test a wireless system in repeatability, high accuracy, and various network scenarios."
+  - title: "Capacitive Touch Screen"
+    main_images:
+     - img: "/assets/images/art/research/research_capacitive_touch_screen.jpg"
+    overview: 
+     - p: "Capacitive touch screen technology has become an integral part of modern digital devices such as smartphones, tablets, and laptops. The ability to sense the presence and location of a touch through a change in capacitance has made capacitive touch screens a preferred choice over resistive and other types of touch screens."
+    challenge: 
+     - p: "Our research focuses on the implementation and improvement of touch screen panels using capacitive touch screen technology. We aim to develop a high-performance touch screen panel that can accurately detect multiple touch points and provide a smooth and responsive touch experience."
+    process: 
+     - p: "To achieve this goal, we have developed a technique that includes Tx and Rx electrodes to detect the touched points by measuring the capacitance changes. We also represent the touched basic cell with mutual capacitance for simulation purposes.Furthermore, we have developed a software-defined touch display platform that includes 20 Tx electrodes and 40 Rx electrodes. We utilize PXI system-linked DAC and DAC modules to control the mutual capacitance of multiple cells, allowing us to implement multi-touch situations. We have combined the implemented touch screen panel with the PXI system, providing scalability to operate on FPGA and CPU."
+
