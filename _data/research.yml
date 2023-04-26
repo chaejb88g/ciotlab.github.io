@@ -68,6 +68,15 @@ research_area:
      - p: "We can modify the parameters such as modulation order, transmit power, and basis vector size, etc. in the top-level VI of the LabVIEW code and check the performance metrics such as bit-error rate (BER), signal-to-noise ratio (SNR), channel gain, and signal constellation of each receiver. We have conducted experiments that measure these performance metrics according to various parameters."
     process: 
      - p: "And one of the many challenges in the development and evaluation of these wireless systems is testing and verification. Therefore, the radio system must be tested to ensure specified requirement. But field tests are expensive, time-consuming, and difficult to repeat. Simulation can overcome these problems, but ultimately it is limited to accuracy or excessive running time. One way to compensate for these limitations is the real-time HIL channel emulation. This can compensate for the gap between simulation and field testing. A good channel emulator can test a wireless system in repeatability, high accuracy, and various network scenarios."
+  - title: "RF Wireless Power Transfer"
+    main_images:
+     - img: "/assets/images/art/research/research_rf_wireless_power_transfer_1.JPG"
+    overview: 
+     - p: "RF Wireless Power Transfer (WPT) is a technology that enables wireless power transfer through the use of electromagnetic (EM) waves. Unlike magnetic WPT, which has a very short working distance, RF WPT can deliver wireless power to target devices located tens to hundreds of meters away. RF WPT has the potential to revolutionize the way we power electronic devices, making it possible to charge devices without the need for cables or batteries."
+    challenge: 
+     - p: "One of the major challenges of RF WPT is achieving high power transfer efficiency over long distances. Non-focused radiation scatters microwave energy towards directions other than the target receiver, which makes it unsuitable for WPT application. Focused radiation, on the other hand, can focus a sharp microwave beam on the receiver to maximize power transfer efficiency."
+    process: 
+     - p: "EM waves can be utilized for both data communication and power transfer. In RF WPT, a transmitter emits microwave energy towards the receiver, which then converts it into DC power using a rectifier. To achieve high power transfer efficiency, focused radiation is used to ensure that the microwave beam is directed towards the receiver. This enables the receiver to harvest a significant amount of power even from a long distance."
   - title: "Capacitive Touch Screen"
     main_images:
      - img: "/assets/images/art/research/research_capacitive_touch_screen.JPG"
