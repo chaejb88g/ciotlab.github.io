@@ -87,5 +87,16 @@ research_area:
      - p: "We have developed a lower-limb EMG acquisition system that collects EMG signals continuously from a single channel. We have optimized the bio-signal acquisition system for both wired and wireless communication, allowing for flexibility and ease of use."
     process: 
      - p: "Using deep learning networks, we analyze the collected EMG signals to estimate motion and control real-time avatars in the UNITY environment. Our research also involves studying the brain-computer interface, where we decode brain signals into motor imagery intentions. We utilize a public motor imagery dataset from EEG and classify the data using deep learning with a hierarchical transformer network."
+ - title: "AI-Based Spectrum Access"
+    main_images:
+     - img: "/assets/images/art/research/research_ai_based_spectrum_access_1.JPG"
+     - img: "/assets/images/art/research/research_ai_based_spectrum_access_2.JPG"
+    overview: 
+     - p: "The rapid growth of wireless communication technology has led to an increasing demand for efficient utilization of wireless resources. Our research focuses on developing artificial intelligence-based spectrum access technology that can optimize WiFi resource utilization efficiency while protecting existing wireless stations in the 6 GHz."
+    challenge: 
+     - p: "To achieve this goal, we analyze the 802.11ax network technology and the Distributed Coordination Function (DCF) transmission method in existing Media Access Control (MAC). We also investigate the technologies and requirements such as Orthogonal Frequency Division Multiple Access (OFDMA), channel bonding, preamble puncturing, and Multi-User Multiple Input Multiple Output (MU-MIMO)."
+    process: 
+     - p: "We have developed an 802.11ax based communication simulator and agent that can be implemented in the form of Discrete Event Simulation (DES). We have created a user-friendly interface using Python and visualization tools to aid in the simulation process.Moreover, we have created reinforcement learning models using value-based algorithms such as Deep Q-Network (DQN), Double DQN (DDQN), and Rainbow DQN, as well as policy-based and actor-critic algorithms such as REINFORCE, Advantage Actor-Critic (A2C), and Proximal Policy Optimization (PPO)."
+
 
 
