@@ -77,4 +77,15 @@ research_area:
      - p: "Our research focuses on the implementation and improvement of touch screen panels using capacitive touch screen technology. We aim to develop a high-performance touch screen panel that can accurately detect multiple touch points and provide a smooth and responsive touch experience."
     process: 
      - p: "To achieve this goal, we have developed a technique that includes Tx and Rx electrodes to detect the touched points by measuring the capacitance changes. We also represent the touched basic cell with mutual capacitance for simulation purposes.Furthermore, we have developed a software-defined touch display platform that includes 20 Tx electrodes and 40 Rx electrodes. We utilize PXI system-linked DAC and DAC modules to control the mutual capacitance of multiple cells, allowing us to implement multi-touch situations. We have combined the implemented touch screen panel with the PXI system, providing scalability to operate on FPGA and CPU."
+ - title: "Bio Signal Processing(EMG, EEG)"
+    main_images:
+     - img: "/assets/images/art/research/research_bio_signal_eeg.jpg"
+     - img: "/assets/images/art/research/research_bio_signal_emg.jpg"
+    overview: 
+     - p: "Bio-signal processing is a field of study that involves the acquisition, analysis, and interpretation of signals produced by biological systems. Our research focuses on the processing of bio-signals, specifically electromyography (EMG) and electroencephalography (EEG), to estimate human behavior and movements."
+    challenge: 
+     - p: "We have developed a lower-limb EMG acquisition system that collects EMG signals continuously from a single channel. We have optimized the bio-signal acquisition system for both wired and wireless communication, allowing for flexibility and ease of use."
+    process: 
+     - p: "Using deep learning networks, we analyze the collected EMG signals to estimate motion and control real-time avatars in the UNITY environment. Our research also involves studying the brain-computer interface, where we decode brain signals into motor imagery intentions. We utilize a public motor imagery dataset from EEG and classify the data using deep learning with a hierarchical transformer network."
+
 
