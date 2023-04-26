@@ -106,6 +106,17 @@ research_area:
      - p: "As next-generation wireless communication bands are moving towards high frequency bands such as mmwave and sub-THz, integration research in this band is accelerating. We believe that our research can contribute to the development of ISAC technology, leading to improved efficiency and reduced costs in the wireless communication system."
     process: 
      - p: "Our research focuses on the development of Integrated Sensing and Communication (ISAC) technology, which simultaneously performs communication and sensing using electromagnetic waves. This technology offers increased efficiency of radio frequency (RF) resources and reduced costs due to hardware sharing.In summary, ISAC technology is a promising approach that can offer significant benefits for both communication and sensing applications by integrating them into a single system. Our research aims to explore the full potential of this technology and to develop new methods to enable its widespread adoption."
+  - title: "Through-Wall MIMO Radar"
+    main_images:
+     - img: "/assets/images/art/research/research_mimo_radar_1.JPG"
+     - img: "/assets/images/art/research/research_mimo_radar_2.JPG"
+    overview: 
+     - p: "Through-Wall MIMO Radar is a technology that allows for the collection of information about objects and people located in the space behind a wall or obstruction that blocks the line of sight. By using MIMO technology, which utilizes multiple antennas to simultaneously transmit and receive signals, a more accurate image of the target can be generated. The radar measures time delay and phase shift of reflected signals to determine the location, size, and movement of the object or person being detected."
+    challenge: 
+     - p: "In this research, an IR-UWB MIMO Radar system is configured with Multi-Input, Multi-Output (MIMO) technology on the Impulse Radar Ultra-Wide Band (IR-UWB) sensor. A large amount of RF signal data is collected for many people and various postures."
+    process: 
+     - p: "The research focuses on RF signal-based pose estimation deep learning model, which applies collected RF signal data to a feature extraction module. The posture of a person located in an invisible space is estimated using Transformer, an attention-based deep learning model. This research can have significant implications in fields such as surveillance, rescue operations, and security."
+
 
 
 
