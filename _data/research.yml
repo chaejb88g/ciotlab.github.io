@@ -79,8 +79,7 @@ research_area:
      - p: "To achieve this goal, we have developed a technique that includes Tx and Rx electrodes to detect the touched points by measuring the capacitance changes. We also represent the touched basic cell with mutual capacitance for simulation purposes.Furthermore, we have developed a software-defined touch display platform that includes 20 Tx electrodes and 40 Rx electrodes. We utilize PXI system-linked DAC and DAC modules to control the mutual capacitance of multiple cells, allowing us to implement multi-touch situations. We have combined the implemented touch screen panel with the PXI system, providing scalability to operate on FPGA and CPU."
   - title: "Bio Signal Processing(EMG, EEG)"
     main_images:
-     - img: "/assets/images/art/research/research_bio_signal_eeg.JPG"
-     - img: "/assets/images/art/research/research_bio_signal_emg.JPG"
+     - img: "/assets/images/art/research/research_bio_signal.jpg"
     overview: 
      - p: "Bio-signal processing is a field of study that involves the acquisition, analysis, and interpretation of signals produced by biological systems. Our research focuses on the processing of bio-signals, specifically electromyography (EMG) and electroencephalography (EEG), to estimate human behavior and movements."
     challenge: 
@@ -97,6 +96,17 @@ research_area:
      - p: "To achieve this goal, we analyze the 802.11ax network technology and the Distributed Coordination Function (DCF) transmission method in existing Media Access Control (MAC). We also investigate the technologies and requirements such as Orthogonal Frequency Division Multiple Access (OFDMA), channel bonding, preamble puncturing, and Multi-User Multiple Input Multiple Output (MU-MIMO)."
     process: 
      - p: "We have developed an 802.11ax based communication simulator and agent that can be implemented in the form of Discrete Event Simulation (DES). We have created a user-friendly interface using Python and visualization tools to aid in the simulation process.Moreover, we have created reinforcement learning models using value-based algorithms such as Deep Q-Network (DQN), Double DQN (DDQN), and Rainbow DQN, as well as policy-based and actor-critic algorithms such as REINFORCE, Advantage Actor-Critic (A2C), and Proximal Policy Optimization (PPO)."
+  - title: "Integrated Sensing and Communication"
+    main_images:
+     - img: "/assets/images/art/research/sensing_and_communication_1.JPG"
+     - img: "/assets/images/art/research/sensing_and_communication_2.JPG"
+    overview: 
+     - p: "ISAC technology is based on the fact that both wireless communication and radar sensing areas use electromagnetic waves. We are researching the integration of communication and sensing at the millimeter wave (mmwave) and sub-THz band, where communication uses a relatively low frequency band and sensing uses a high frequency band that can obtain high resolution."
+    challenge: 
+     - p: "As next-generation wireless communication bands are moving towards high frequency bands such as mmwave and sub-THz, integration research in this band is accelerating. We believe that our research can contribute to the development of ISAC technology, leading to improved efficiency and reduced costs in the wireless communication system."
+    process: 
+     - p: "Our research focuses on the development of Integrated Sensing and Communication (ISAC) technology, which simultaneously performs communication and sensing using electromagnetic waves. This technology offers increased efficiency of radio frequency (RF) resources and reduced costs due to hardware sharing.In summary, ISAC technology is a promising approach that can offer significant benefits for both communication and sensing applications by integrating them into a single system. Our research aims to explore the full potential of this technology and to develop new methods to enable its widespread adoption."
+
 
 
 
