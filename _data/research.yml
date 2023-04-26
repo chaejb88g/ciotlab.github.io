@@ -89,6 +89,7 @@ research_area:
   - title: "AI-Based Spectrum Access"
     main_images:
      - img: "/assets/images/art/research/research_ai_based_spectrum_access_1.JPG"
+    sub_images:
      - img: "/assets/images/art/research/research_ai_based_spectrum_access_2.JPG"
     overview: 
      - p: "The rapid growth of wireless communication technology has led to an increasing demand for efficient utilization of wireless resources. Our research focuses on developing artificial intelligence-based spectrum access technology that can optimize WiFi resource utilization efficiency while protecting existing wireless stations in the 6 GHz."
@@ -108,6 +109,7 @@ research_area:
   - title: "Through-Wall MIMO Radar"
     main_images:
      - img: "/assets/images/art/research/research_mimo_radar_1.JPG"
+    sub_images:
      - img: "/assets/images/art/research/research_mimo_radar_2.JPG"
     overview: 
      - p: "Through-Wall MIMO Radar is a technology that allows for the collection of information about objects and people located in the space behind a wall or obstruction that blocks the line of sight. By using MIMO technology, which utilizes multiple antennas to simultaneously transmit and receive signals, a more accurate image of the target can be generated. The radar measures time delay and phase shift of reflected signals to determine the location, size, and movement of the object or person being detected."
