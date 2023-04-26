@@ -77,64 +77,6 @@ research_area:
      - p: "One of the major challenges of RF WPT is achieving high power transfer efficiency over long distances. Non-focused radiation scatters microwave energy towards directions other than the target receiver, which makes it unsuitable for WPT application. Focused radiation, on the other hand, can focus a sharp microwave beam on the receiver to maximize power transfer efficiency."
     process: 
      - p: "EM waves can be utilized for both data communication and power transfer. In RF WPT, a transmitter emits microwave energy towards the receiver, which then converts it into DC power using a rectifier. To achieve high power transfer efficiency, focused radiation is used to ensure that the microwave beam is directed towards the receiver. This enables the receiver to harvest a significant amount of power even from a long distance."
-  - title: "Capacitive Touch Screen"
-    main_images:
-     - img: "/assets/images/art/research/research_capacitive_touch_screen.JPG"
-    overview: 
-     - p: "Capacitive touch screen technology has become an integral part of modern digital devices such as smartphones, tablets, and laptops. The ability to sense the presence and location of a touch through a change in capacitance has made capacitive touch screens a preferred choice over resistive and other types of touch screens."
-    challenge: 
-     - p: "Our research focuses on the implementation and improvement of touch screen panels using capacitive touch screen technology. We aim to develop a high-performance touch screen panel that can accurately detect multiple touch points and provide a smooth and responsive touch experience."
-    process: 
-     - p: "To achieve this goal, we have developed a technique that includes Tx and Rx electrodes to detect the touched points by measuring the capacitance changes. We also represent the touched basic cell with mutual capacitance for simulation purposes.Furthermore, we have developed a software-defined touch display platform that includes 20 Tx electrodes and 40 Rx electrodes. We utilize PXI system-linked DAC and DAC modules to control the mutual capacitance of multiple cells, allowing us to implement multi-touch situations. We have combined the implemented touch screen panel with the PXI system, providing scalability to operate on FPGA and CPU."
-  - title: "Bio Signal Processing(EMG, EEG)"
-    main_images:
-     - img: "/assets/images/art/research/research_bio_signal.jpg"
-    overview: 
-     - p: "Bio-signal processing is a field of study that involves the acquisition, analysis, and interpretation of signals produced by biological systems. Our research focuses on the processing of bio-signals, specifically electromyography (EMG) and electroencephalography (EEG), to estimate human behavior and movements."
-    challenge: 
-     - p: "We have developed a lower-limb EMG acquisition system that collects EMG signals continuously from a single channel. We have optimized the bio-signal acquisition system for both wired and wireless communication, allowing for flexibility and ease of use."
-    process: 
-     - p: "Using deep learning networks, we analyze the collected EMG signals to estimate motion and control real-time avatars in the UNITY environment. Our research also involves studying the brain-computer interface, where we decode brain signals into motor imagery intentions. We utilize a public motor imagery dataset from EEG and classify the data using deep learning with a hierarchical transformer network."
-  - title: "AI-Based Spectrum Access"
-    main_images:
-     - img: "/assets/images/art/research/research_ai_based_spectrum_access_1.JPG"
-    sub_images:
-     - img: "/assets/images/art/research/research_ai_based_spectrum_access_2.JPG"
-    overview: 
-     - p: "The rapid growth of wireless communication technology has led to an increasing demand for efficient utilization of wireless resources. Our research focuses on developing artificial intelligence-based spectrum access technology that can optimize WiFi resource utilization efficiency while protecting existing wireless stations in the 6 GHz."
-    challenge: 
-     - p: "To achieve this goal, we analyze the 802.11ax network technology and the Distributed Coordination Function (DCF) transmission method in existing Media Access Control (MAC). We also investigate the technologies and requirements such as Orthogonal Frequency Division Multiple Access (OFDMA), channel bonding, preamble puncturing, and Multi-User Multiple Input Multiple Output (MU-MIMO)."
-    process: 
-     - p: "We have developed an 802.11ax based communication simulator and agent that can be implemented in the form of Discrete Event Simulation (DES). We have created a user-friendly interface using Python and visualization tools to aid in the simulation process.Moreover, we have created reinforcement learning models using value-based algorithms such as Deep Q-Network (DQN), Double DQN (DDQN), and Rainbow DQN, as well as policy-based and actor-critic algorithms such as REINFORCE, Advantage Actor-Critic (A2C), and Proximal Policy Optimization (PPO)."
-  - title: "Integrated Sensing and Communication"
-    main_images:
-     - img: "/assets/images/art/research/research_sensing_and_communication.jpg"
-    overview: 
-     - p: "ISAC technology is based on the fact that both wireless communication and radar sensing areas use electromagnetic waves. We are researching the integration of communication and sensing at the millimeter wave (mmwave) and sub-THz band, where communication uses a relatively low frequency band and sensing uses a high frequency band that can obtain high resolution."
-    challenge: 
-     - p: "As next-generation wireless communication bands are moving towards high frequency bands such as mmwave and sub-THz, integration research in this band is accelerating. We believe that our research can contribute to the development of ISAC technology, leading to improved efficiency and reduced costs in the wireless communication system."
-    process: 
-     - p: "Our research focuses on the development of Integrated Sensing and Communication (ISAC) technology, which simultaneously performs communication and sensing using electromagnetic waves. This technology offers increased efficiency of radio frequency (RF) resources and reduced costs due to hardware sharing.In summary, ISAC technology is a promising approach that can offer significant benefits for both communication and sensing applications by integrating them into a single system. Our research aims to explore the full potential of this technology and to develop new methods to enable its widespread adoption."
-  - title: "Through-Wall MIMO Radar"
-    main_images:
-     - img: "/assets/images/art/research/research_mimo_radar_1.JPG"
-    sub_images:
-     - img: "/assets/images/art/research/research_mimo_radar_2.JPG"
-    overview: 
-     - p: "Through-Wall MIMO Radar is a technology that allows for the collection of information about objects and people located in the space behind a wall or obstruction that blocks the line of sight. By using MIMO technology, which utilizes multiple antennas to simultaneously transmit and receive signals, a more accurate image of the target can be generated. The radar measures time delay and phase shift of reflected signals to determine the location, size, and movement of the object or person being detected."
-    challenge: 
-     - p: "In this research, an IR-UWB MIMO Radar system is configured with Multi-Input, Multi-Output (MIMO) technology on the Impulse Radar Ultra-Wide Band (IR-UWB) sensor. A large amount of RF signal data is collected for many people and various postures."
-    process: 
-     - p: "The research focuses on RF signal-based pose estimation deep learning model, which applies collected RF signal data to a feature extraction module. The posture of a person located in an invisible space is estimated using Transformer, an attention-based deep learning model. This research can have significant implications in fields such as surveillance, rescue operations, and security."
-  - title: "6G Sub-THz"
-    main_images:
-     - img: "/assets/images/art/research/research_6g_sub_thz_1.jpg"
-    overview: 
-     - p: "The sub-THz band has the potential to provide ultra-high-speed communication due to its wide bandwidth. However, this band is challenging due to the high attenuation, propagation loss, and hardware constraints. Researchers are working on exploring the sub-THz channel's characteristics, including reflection, diffraction, and transmission, to improve the transmission performance."
-    challenge: 
-     - p: "One of the main challenges in sub-THz communication is the hardware limitation of the transceiver due to the high operating frequency. Line-of-sight (LoS) MIMO and hybrid beamforming technology have been proposed to overcome the hardware constraint and achieve better channel capacity. Moreover, RF impairments such as Phase noise, which affects the sub-THz band's transmission quality, are being compensated through various methods."
-    process: 
-     - p: "Researchers are setting up sub-THz testbeds to observe and analyze the sub-THz band's RF impairments, such as Phase noise. Real-time compensation algorithms are being developed to improve the communication quality in the sub-THz band. Additionally, researchers are working on developing new techniques to utilize the sub-THz band more efficiently, which will be useful in the design of the next-generation wireless communication system."
   - title: "Cell-Free MIMO"
     main_images:
      - img: "/assets/images/art/research/research_cell_free_mimo_1.JPG"
@@ -146,8 +88,62 @@ research_area:
      - p: "The main challenge of Cell-Free MIMO technology is to maintain a set of “protected UEs” for each cell and minimize interference to them. The system also requires real-time exchange of information and calculations between base stations, which presents significant computational and architectural challenges."
     process: 
      - p: "Cell-Free MIMO technology is designed for distributed CPU, which means there is no dedicated hardware for CPU. Instead, each AP retains the capability of CPU so that all APs have an identical architecture. Each cell has a primary AP and others are called secondary APs. The primary AP performs high PHY signal processing and distributes the data stream to secondary APs. It also gathers channel information and computes the precoding matrix. This technology assumes multi-layer communications, and downlink OFDM communications are used."
+  - title: "6G Sub-THz"
+    main_images:
+     - img: "/assets/images/art/research/research_6g_sub_thz_1.jpg"
+    overview: 
+     - p: "The sub-THz band has the potential to provide ultra-high-speed communication due to its wide bandwidth. However, this band is challenging due to the high attenuation, propagation loss, and hardware constraints. Researchers are working on exploring the sub-THz channel's characteristics, including reflection, diffraction, and transmission, to improve the transmission performance."
+    challenge: 
+     - p: "One of the main challenges in sub-THz communication is the hardware limitation of the transceiver due to the high operating frequency. Line-of-sight (LoS) MIMO and hybrid beamforming technology have been proposed to overcome the hardware constraint and achieve better channel capacity. Moreover, RF impairments such as Phase noise, which affects the sub-THz band's transmission quality, are being compensated through various methods."
+    process: 
+     - p: "Researchers are setting up sub-THz testbeds to observe and analyze the sub-THz band's RF impairments, such as Phase noise. Real-time compensation algorithms are being developed to improve the communication quality in the sub-THz band. Additionally, researchers are working on developing new techniques to utilize the sub-THz band more efficiently, which will be useful in the design of the next-generation wireless communication system."
+  - title: "Through-Wall MIMO Radar"
+    main_images:
+     - img: "/assets/images/art/research/research_mimo_radar_1.JPG"
+    sub_images:
+     - img: "/assets/images/art/research/research_mimo_radar_2.JPG"
+    overview: 
+     - p: "Through-Wall MIMO Radar is a technology that allows for the collection of information about objects and people located in the space behind a wall or obstruction that blocks the line of sight. By using MIMO technology, which utilizes multiple antennas to simultaneously transmit and receive signals, a more accurate image of the target can be generated. The radar measures time delay and phase shift of reflected signals to determine the location, size, and movement of the object or person being detected."
+    challenge: 
+     - p: "In this research, an IR-UWB MIMO Radar system is configured with Multi-Input, Multi-Output (MIMO) technology on the Impulse Radar Ultra-Wide Band (IR-UWB) sensor. A large amount of RF signal data is collected for many people and various postures."
+    process: 
+     - p: "The research focuses on RF signal-based pose estimation deep learning model, which applies collected RF signal data to a feature extraction module. The posture of a person located in an invisible space is estimated using Transformer, an attention-based deep learning model. This research can have significant implications in fields such as surveillance, rescue operations, and security."
+  - title: "Integrated Sensing and Communication"
+    main_images:
+     - img: "/assets/images/art/research/research_sensing_and_communication.jpg"
+    overview: 
+     - p: "ISAC technology is based on the fact that both wireless communication and radar sensing areas use electromagnetic waves. We are researching the integration of communication and sensing at the millimeter wave (mmwave) and sub-THz band, where communication uses a relatively low frequency band and sensing uses a high frequency band that can obtain high resolution."
+    challenge: 
+     - p: "As next-generation wireless communication bands are moving towards high frequency bands such as mmwave and sub-THz, integration research in this band is accelerating. We believe that our research can contribute to the development of ISAC technology, leading to improved efficiency and reduced costs in the wireless communication system."
+    process: 
+     - p: "Our research focuses on the development of Integrated Sensing and Communication (ISAC) technology, which simultaneously performs communication and sensing using electromagnetic waves. This technology offers increased efficiency of radio frequency (RF) resources and reduced costs due to hardware sharing.In summary, ISAC technology is a promising approach that can offer significant benefits for both communication and sensing applications by integrating them into a single system. Our research aims to explore the full potential of this technology and to develop new methods to enable its widespread adoption."
+  - title: "AI-Based Spectrum Access"
+    main_images:
+     - img: "/assets/images/art/research/research_ai_based_spectrum_access_1.JPG"
+    sub_images:
+     - img: "/assets/images/art/research/research_ai_based_spectrum_access_2.JPG"
+    overview: 
+     - p: "The rapid growth of wireless communication technology has led to an increasing demand for efficient utilization of wireless resources. Our research focuses on developing artificial intelligence-based spectrum access technology that can optimize WiFi resource utilization efficiency while protecting existing wireless stations in the 6 GHz."
+    challenge: 
+     - p: "To achieve this goal, we analyze the 802.11ax network technology and the Distributed Coordination Function (DCF) transmission method in existing Media Access Control (MAC). We also investigate the technologies and requirements such as Orthogonal Frequency Division Multiple Access (OFDMA), channel bonding, preamble puncturing, and Multi-User Multiple Input Multiple Output (MU-MIMO)."
+    process: 
+     - p: "We have developed an 802.11ax based communication simulator and agent that can be implemented in the form of Discrete Event Simulation (DES). We have created a user-friendly interface using Python and visualization tools to aid in the simulation process.Moreover, we have created reinforcement learning models using value-based algorithms such as Deep Q-Network (DQN), Double DQN (DDQN), and Rainbow DQN, as well as policy-based and actor-critic algorithms such as REINFORCE, Advantage Actor-Critic (A2C), and Proximal Policy Optimization (PPO)."
+  - title: "Bio Signal Processing(EMG, EEG)"
+    main_images:
+     - img: "/assets/images/art/research/research_bio_signal.jpg"
+    overview: 
+     - p: "Bio-signal processing is a field of study that involves the acquisition, analysis, and interpretation of signals produced by biological systems. Our research focuses on the processing of bio-signals, specifically electromyography (EMG) and electroencephalography (EEG), to estimate human behavior and movements."
+    challenge: 
+     - p: "We have developed a lower-limb EMG acquisition system that collects EMG signals continuously from a single channel. We have optimized the bio-signal acquisition system for both wired and wireless communication, allowing for flexibility and ease of use."
+    process: 
+     - p: "Using deep learning networks, we analyze the collected EMG signals to estimate motion and control real-time avatars in the UNITY environment. Our research also involves studying the brain-computer interface, where we decode brain signals into motor imagery intentions. We utilize a public motor imagery dataset from EEG and classify the data using deep learning with a hierarchical transformer network."
+  - title: "Capacitive Touch Screen"
+    main_images:
+     - img: "/assets/images/art/research/research_capacitive_touch_screen.JPG"
+    overview: 
+     - p: "Capacitive touch screen technology has become an integral part of modern digital devices such as smartphones, tablets, and laptops. The ability to sense the presence and location of a touch through a change in capacitance has made capacitive touch screens a preferred choice over resistive and other types of touch screens."
+    challenge: 
+     - p: "Our research focuses on the implementation and improvement of touch screen panels using capacitive touch screen technology. We aim to develop a high-performance touch screen panel that can accurately detect multiple touch points and provide a smooth and responsive touch experience."
+    process: 
+     - p: "To achieve this goal, we have developed a technique that includes Tx and Rx electrodes to detect the touched points by measuring the capacitance changes. We also represent the touched basic cell with mutual capacitance for simulation purposes.Furthermore, we have developed a software-defined touch display platform that includes 20 Tx electrodes and 40 Rx electrodes. We utilize PXI system-linked DAC and DAC modules to control the mutual capacitance of multiple cells, allowing us to implement multi-touch situations. We have combined the implemented touch screen panel with the PXI system, providing scalability to operate on FPGA and CPU."
   
-
-
-
-
