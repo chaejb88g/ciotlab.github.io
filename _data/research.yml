@@ -120,8 +120,6 @@ research_area:
   - title: "6G Sub-THz"
     main_images:
      - img: "/assets/images/art/research/research_6g_sub_thz_1.jpg"
-    sub_images:
-     - img: "/assets/images/art/research/research_6g_sub_thz_2.jpg"
     overview: 
      - p: "The sub-THz band has the potential to provide ultra-high-speed communication due to its wide bandwidth. However, this band is challenging due to the high attenuation, propagation loss, and hardware constraints. Researchers are working on exploring the sub-THz channel's characteristics, including reflection, diffraction, and transmission, to improve the transmission performance."
     challenge: 
