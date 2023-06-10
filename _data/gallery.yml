@@ -18,6 +18,14 @@ portfolios_area:
 
 
   portfolios:
+    - title: "Homecoming Day 2023"
+      content: "We held a homecoming day in our lab with our lab colleagues, in-school researchers, and professors who have been with us since the past."
+      images:
+        - img: "/assets/images/art/award/event_home_23.jpg"
+      date: "2023-06-09"
+      filters:
+       - event 
+       - 2023
     - title: "2023 1st Semester Excellent Research"
       content: "NGUYEN MINH TRAN won the Excellence Award in the 2023 first semester Sungkyunkwan University General Graduate School of Information and Communication."
       images:
