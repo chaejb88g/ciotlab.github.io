@@ -21,7 +21,7 @@ portfolios_area:
     - title: "Homecoming Day 2023"
       content: "We held a homecoming day in our lab with our lab colleagues, in-school researchers, and professors who have been with us since the past."
       images:
-        - img: "/assets/images/art/award/event_home_23.jpg"
+        - img: "/assets/images/art/event/event_home_23.jpg"
       date: "2023-06-09"
       filters:
        - event 
