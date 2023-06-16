@@ -530,7 +530,7 @@ international:
 domestic:
   - title: "Hybrid Beamforming in Sub-THz LoS MIMO Systems "
     author: "ChaewonYun, Kae Won Choi"
-    journal: "한국통신학회"
+    journal: "통신학회논문지"
     details: "48권 5호, 543-548, doi: 10.7840/kics.2023.48.5.543"
     filters:
      - 2023
