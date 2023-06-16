@@ -81,6 +81,17 @@ international:
      - granted
 
 domestic:
+  - title: "가변 임피던스를 이용하는 백스캐터 통신 제어 장치 및 이의 방법"
+    inventor: "최계원, 로렌즈 진팅, 천세원"
+    authority: "대한민국"
+    patent_no: "10-2514731"
+    patent_date: "2023년 03월 23일"
+    application_no: "10-2021-0187122"
+    application_date: "2021년 12월 24일"
+    filters:
+     - 2023
+     - domestic
+     - granted
   - title: "효율적인 빔 합성을 위한 최적화 방법 및 장치"
     inventor: "조동근, 윤현식, 최계원"
     authority: "대한민국"
@@ -304,7 +315,6 @@ domestic:
      - 2017
      - domestic
      - granted
-
   - title: "RIS를 활용한 무선 통신 시스템의 채널 추정 장치 및 이의 방법"
     inventor: "최계원, 무하마드 미프타훌 암리, 박제현, 웽밍턴"
     authority: "대한민국"
@@ -327,15 +337,6 @@ domestic:
     inventor: "최계원, 아리프 압둘 아지즈, 윤채원"
     authority: "대한민국"
     application_no: "10-2021-0187118"
-    application_date: "2021년 12월 24일"
-    filters:
-     - 2021
-     - domestic
-     - application
-  - title: "가변 임피던스를 이용하는 백스캐터 통신 제어 장치 및 이의 방법"
-    inventor: "최계원, 로렌즈 진팅, 천세원"
-    authority: "대한민국"
-    application_no: "10-2021-0187122"
     application_date: "2021년 12월 24일"
     filters:
      - 2021
