@@ -528,6 +528,13 @@ international:
 
 
 domestic:
+  - title: "Hybrid Beamforming in Sub-THz LoS MIMO Systems "
+    author: "ChaewonYun, Kae Won Choi"
+    journal: "한국통신학회"
+    details: "48권 5호, 543-548, doi: 10.7840/kics.2023.48.5.543"
+    filters:
+     - 2023
+     - domestic
   - title: "EMG-based 3D hand gesture prediction using transformer–encoder classification"
     author: "Tahira Mahboob, Min Young Chung, Kae Won Choi"
     journal: "ICT Express"
