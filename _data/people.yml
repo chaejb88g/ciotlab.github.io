@@ -98,6 +98,11 @@ members_info:
         research: "AI Communications"
         image: "/assets/images/art/profile/profile_master_parkgeona.jpg"
         email: "geona@g.skku.edu"  
+
+      - name: "노용준(Noh Yong Jun)"
+        research: "AI Communications"
+        image: "/assets/images/art/profile/profile_master_nohyongjun.jpg"
+        email: "n0y0j@g.skku.edu"  
         
    - title: "Undergraduate"
      members:     
