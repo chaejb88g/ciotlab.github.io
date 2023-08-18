@@ -39,6 +39,14 @@ categories:
       filter: "2004"
 
 international:
+  - title: "Hierarchical Transformer for Motor Imagery-Based Brain Computer Interface"
+    author: "Permana Deny, Saewon Cheon, Hayoung Son, Kae Won Choi"
+    journal: "IEEE Journal of Biomedical and Health Informatics"
+    details: "Early Access, doi: 10.1109/JBHI.2023.3304646"
+    link: "https://ieeexplore.ieee.org/document/10216286"
+    filters:
+     - 2023
+     - international
   - title: "A Study on 3D Human Pose Estimation Using Through-Wall IR-UWB Radar and Transformer"
     author: "Gon Woo Kim, Sang Won Lee, Ha Young Son, Kae Won Choi"
     journal: "IEEE Access"
