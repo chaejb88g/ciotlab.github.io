@@ -135,7 +135,17 @@ members_info:
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_undergraduate_shinjaemyung.jpg"
         email: "sjm5429@naver.com"    
-   
+        
+      - name: "김수현(Kim su hyun)"
+        research: "Wireless Communication"
+        image: "/assets/images/art/profile/profile_undergraduate_kimsuhyun.jpg"
+        email: "rkawns5909@naver.com"    
+
+      - name: "장동환(Jang dong hwan)"
+        research: "Wireless Communication"
+        image: "/assets/images/art/profile/profile_undergraduate_jangdonghwan.jpg"
+        email: "enfbenfb1999@gmail.com"    
+        
    - title: "Alumni"
      members:
       - name: "박종인(Jong In Park)"
