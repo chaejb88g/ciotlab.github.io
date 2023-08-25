@@ -29,16 +29,6 @@ members_info:
 
    - title: "Master"
      members:
-      - name: "천세원(Sae Won Cheon)"
-        research: "Bio Signal Acquisition and Processing"
-        image: "/assets/images/art/profile/profile_master_cheonsaewon.jpg"
-        email: "csw980303@skku.edu"      
-
-      - name: "윤채원(Chaewon Yun)"
-        research: "Hybrid Beamforming"
-        image: "/assets/images/art/profile/profile_master_yunchaewon.jpg"
-        email: "ycw0001@naver.com"
-
       - name: "이경인(Kyung In Lee)"
         research: "Wireless Communications"
         image: "/assets/images/art/profile/profile_master_leekyungin.jpg"
@@ -48,11 +38,6 @@ members_info:
         research: "Computer Vision"
         image: "/assets/images/art/profile/profile_master_kwonsei.jpg"
         email: "say0423@g.skku.edu"
-
-      - name: "김광호(Kwang Ho Kim)"
-        research: "Metasurface, RF Testing"
-        image: "/assets/images/art/profile/profile_master_kimkwangho.jpg"
-        email: "modecs@g.skku.edu"
 
       - name: "채준병(Jun Byung Chae)"
         research: "AI Communications"
@@ -103,6 +88,11 @@ members_info:
         research: "AI Communications"
         image: "/assets/images/art/profile/profile_master_nohyongjun.jpg"
         email: "n0y0j@g.skku.edu"  
+
+      - name: "조성우(Sung Woo Cho)"
+        research: "Wireless Communication"
+        image: "/assets/images/art/profile/profile_undergraduate_sungwoocho.jpg"
+        email: "luckycho@g.skku.edu"   
         
    - title: "Undergraduate"
      members:     
@@ -120,12 +110,7 @@ members_info:
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_undergraduate_seongyeowon.jpg"
         email: "min1102401@g.skku.edu"     
-        
-      - name: "조성우(Sung Woo Cho)"
-        research: "Wireless Communication"
-        image: "/assets/images/art/profile/profile_undergraduate_sungwoocho.jpg"
-        email: "luckycho@g.skku.edu"     
-        
+              
       - name: "최윤정(Jeong Yoon Choi)"
         research: "Bio Signal Acquisition and Processing"
         image: "/assets/images/art/profile/profile_undergraduate_yoonjungchoi.jpg"
@@ -148,6 +133,24 @@ members_info:
         
    - title: "Alumni"
      members:
+      - name: "김광호(Kwang Ho Kim)"
+        research: "Metasurface, RF Testing"
+        image: "/assets/images/art/profile/profile_master_kimkwangho.jpg"
+        email: "modecs@g.skku.edu"
+        education: "Master"
+        
+      - name: "천세원(Sae Won Cheon)"
+        research: "Bio Signal Acquisition and Processing"
+        image: "/assets/images/art/profile/profile_master_cheonsaewon.jpg"
+        email: "csw980303@skku.edu"      
+        education: "Master"
+
+      - name: "윤채원(Chaewon Yun)"
+        research: "Hybrid Beamforming"
+        image: "/assets/images/art/profile/profile_master_yunchaewon.jpg"
+        email: "ycw0001@naver.com"
+        education: "Master"
+        
       - name: "박종인(Jong In Park)"
         research: "AI Communications"
         image: "/assets/images/art/profile/profile_master_parkjongin.jpg"
