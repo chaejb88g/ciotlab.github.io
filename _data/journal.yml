@@ -39,6 +39,14 @@ categories:
       filter: "2004"
 
 international:
+  - title: "Fully Distributed Cell-Free MIMO Systems: Architecture, Algorithm, and Testbed Experiments"
+    author: "Mi Hyun Lee, Chaewon Yun, Geun Ho Kim, Soo Young Park, Chang Wahn Yu, Kae Won Choi"
+    journal: "IEEE Internet of Things Journal"
+    details: "Early Access, doi: 10.1109/JIOT.2023.3317578"
+    link: "https://ieeexplore.ieee.org/document/10256071"
+    filters:
+     - 2023
+     - international
   - title: "Hierarchical Transformer for Motor Imagery-Based Brain Computer Interface"
     author: "Permana Deny, Saewon Cheon, Hayoung Son, Kae Won Choi"
     journal: "IEEE Journal of Biomedical and Health Informatics"
