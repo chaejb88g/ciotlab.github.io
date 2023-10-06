@@ -81,6 +81,17 @@ international:
      - granted
 
 domestic:
+  - title: "생체 신호 분석에 기초하여 가상 세계에서 아바타의 동작을 구현하기 위한 딥러닝 모델 학습 방법 및 상기 방법을 수행하는 딥러닝 모델 학습 장치"
+    inventor: "최계원, 천세원"
+    authority: "대한민국"
+    patent_no: "10-2584832"
+    patent_date: "2023년 09월 26일"
+    application_no: "10-2023-0008973"
+    application_date: "2023년 01월 20일"
+    filters:
+     - 2023
+     - domestic
+     - granted
   - title: "가변 임피던스를 이용하는 백스캐터 통신 제어 장치 및 이의 방법"
     inventor: "최계원, 로렌즈 진팅, 천세원"
     authority: "대한민국"
@@ -103,15 +114,6 @@ domestic:
      - 2019
      - domestic
      - granted
-  - title: "생체 신호 분석에 기초하여 가상 세계에서 아바타의 동작을 구현하기 위한 딥러닝 모델 학습 방법 및 상기 방법을 수행하는 딥러닝 모델 학습 장치"
-    inventor: "최계원, 천세원"
-    authority: "대한민국"
-    application_no: "10-2023-00089738"
-    application_date: "2023년 01월 20일"
-    filters:
-     - 2023
-     - domestic
-     - application
   - title: "계단형 반송파 OFDM에 기초하는 셀 탈피 MIMO 네트워크에서의 물체 탐지 및 데이터 전송기법"
     inventor: "최계원, 이미현, 이경인"
     authority: "대한민국"
