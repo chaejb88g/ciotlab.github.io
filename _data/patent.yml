@@ -25,6 +25,15 @@ categories:
       filter: "2015"
 
 international:
+  - title: "reflective intelligent reflecting surface flexible board"
+    inventor: "Kae Won Choi, Nguyen Minh Tran, Muhammad Miftahul Amri, Je Hyeon Park, Ju Young Choi, Dong In Kim"
+    authority: "USA"
+    patent_no: "US 11,757,199 B2"
+    patent_date: "Sep. 12, 2023."
+    filters:
+     - 2023
+     - international
+     - granted
   - title: "RIS를 활용한 무선 통신 시스템의 채널 추정 장치 및 이의 방법"
     inventor: "최계원, Nguyen Minh Tran, Muhammad Miftahul Amri, 박제현"
     authority: "PCT"
@@ -39,15 +48,6 @@ international:
     authority: "USA"
     application_no: "18/075,590"
     application_date: "2022년 12월 06일"
-    filters:
-     - 2022
-     - international
-     - application
-  - title: "reflective intelligent reflecting surface flexible board"
-    inventor: "Kae Won Choi, Nguyen Minh Tran, Muhammad Miftahul Amri, Je Hyeon Park, Ju Young Choi, Dong In Kim"
-    authority: "USA"
-    application_no: "17/825,333"
-    application_date: "2022년 05월 26일"
     filters:
      - 2022
      - international
