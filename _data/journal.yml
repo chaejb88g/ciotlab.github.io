@@ -47,6 +47,22 @@ international:
     filters:
      - 2023
      - international
+  - title: "Phase Noise Compensation Techniques for Arbitrary Reference Signal Configurations in mmWave and Sub-THz Bands"
+    author: "Juyoung Choi, Hyeok Jang, Kae Won Choi"
+    journal: "IEEE Wireless Communications Letters"
+    details: "Early Access, doi: 10.1109/LWC.2023.3336731"
+    link: "https://ieeexplore.ieee.org/document/10330696"
+    filters:
+     - 2023
+     - international
+  - title: "Hierarchical Transformer for Motor Imagery-Based Brain Computer Interface"
+    author: "Permana Deny, Saewon Cheon, Hayoung Son, Kae Won Choi"
+    journal: "IEEE Journal of Biomedical and Health Informatics"
+    details: "Volume: 27, Issue: 11, November 2023, doi: 10.1109/JBHI.2023.3304646"
+    link: "https://ieeexplore.ieee.org/document/10216286"
+    filters:
+     - 2023
+     - international
   - title: "Model-Based Deep Reinforcement Learning Framework for Channel Access in Wireless Networks"
     author: "Jong In Park, Jun Byung Chae, Kae Won Choi"
     journal: "IEEE Internet of Things Journal"
@@ -60,14 +76,6 @@ international:
     journal: "IEEE Internet of Things Journal"
     details: "Early Access, doi: 10.1109/JIOT.2023.3317578"
     link: "https://ieeexplore.ieee.org/document/10256071"
-    filters:
-     - 2023
-     - international
-  - title: "Hierarchical Transformer for Motor Imagery-Based Brain Computer Interface"
-    author: "Permana Deny, Saewon Cheon, Hayoung Son, Kae Won Choi"
-    journal: "IEEE Journal of Biomedical and Health Informatics"
-    details: "Early Access, doi: 10.1109/JBHI.2023.3304646"
-    link: "https://ieeexplore.ieee.org/document/10216286"
     filters:
      - 2023
      - international
