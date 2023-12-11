@@ -111,7 +111,7 @@ domestic:
     application_no: "10-2019-0156866"
     application_date: "2019년 11월 29일"
     filters:
-     - 2019
+     - 2022
      - domestic
      - granted
   - title: "계단형 반송파 OFDM에 기초하는 셀 탈피 MIMO 네트워크에서의 물체 탐지 및 데이터 전송기법"
