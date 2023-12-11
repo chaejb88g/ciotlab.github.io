@@ -39,6 +39,14 @@ categories:
       filter: "2004"
 
 international:
+  - title: "Learning Visual Clue for UWB-Based Multi-Person Pose Estimation"
+    author: "Seunghyun Kim, Seunghwan Shin, Sangwon Lee, Kaewon Choi, Yusung Kim"
+    journal: "Elsevier"
+    details: "Early Access, doi: 10.2139/ssrn.4439406"
+    link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4439406"
+    filters:
+     - 2023
+     - international
   - title: "Efficient Demodulation Algorithms for MIMO-LoRa"
     author: "Jae-Mo Kang, Kae Won Choi"
     journal: "IEEE Internet of Things Journal"
