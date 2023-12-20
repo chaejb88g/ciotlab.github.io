@@ -583,7 +583,7 @@ domestic:
     filters:
      - 2023
      - domestic
-  - title: "A Study on Reinforcement Learning Algorithm for Multi-Spectrum Channel Access"
+  - title: "다중 스펙트럼 채널 접근을 위한 강화학습 알고리즘 연구"
     author: "Jun-byung Chae, Jong-in Park, Kae-won Choi"
     journal: "통신학회논문지"
     details: "48권 12호, 1568-1576, doi: 10.7840/kics.2023.48.12.1568"
