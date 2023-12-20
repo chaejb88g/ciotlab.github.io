@@ -579,14 +579,14 @@ domestic:
   - title: "Implementation of OFDM-Based Downlink and Monostatic ISAC Testbed"
     author: "Kyung In Lee, Kae Won Choi"
     journal: "통신학회논문지"
-    details: "48권 12호, 543-548, doi: 10.7840/kics.2023.48.12.1706"
+    details: "48권 12호, 1706-1713, doi: 10.7840/kics.2023.48.12.1706"
     filters:
      - 2023
      - domestic
   - title: "A Study on Reinforcement Learning Algorithm for Multi-Spectrum Channel Access"
     author: "Jun-byung Chae, Jong-in Park, Kae-won Choi"
     journal: "통신학회논문지"
-    details: "48권 12호, 543-548, doi: 10.7840/kics.2023.48.12.1568"
+    details: "48권 12호, 1568-1576, doi: 10.7840/kics.2023.48.12.1568"
     filters:
      - 2023
      - domestic
