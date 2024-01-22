@@ -55,6 +55,14 @@ international:
     filters:
      - 2023
      - international
+  - title: "EMG-based 3D hand gesture prediction using transformer–encoder classification"
+    author: "Tahira Mahboob, Min Young Chung, Kae Won Choi"
+    journal: "ICT Express"
+    details: "Volume 9, Issue 6, December 2023, Pages 1047-1052, doi: https://doi.org/10.1016/j.icte.2023.04.005"
+    link: "https://www.sciencedirect.com/science/article/pii/S240595952300053X"
+    filters:
+     - 2023
+     - international
   - title: "Phase Noise Compensation Techniques for Arbitrary Reference Signal Configurations in mmWave and Sub-THz Bands"
     author: "Juyoung Choi, Hyeok Jang, Kae Won Choi"
     journal: "IEEE Wireless Communications Letters"
@@ -594,14 +602,6 @@ domestic:
     author: "ChaewonYun, Kae Won Choi"
     journal: "통신학회논문지"
     details: "48권 5호, 543-548, doi: 10.7840/kics.2023.48.5.543"
-    filters:
-     - 2023
-     - domestic
-  - title: "EMG-based 3D hand gesture prediction using transformer–encoder classification"
-    author: "Tahira Mahboob, Min Young Chung, Kae Won Choi"
-    journal: "ICT Express"
-    details: "doi: 10.1016/j.icte.2023.04.005"
-    link: "https://www.sciencedirect.com/science/article/pii/S240595952300053X"
     filters:
      - 2023
      - domestic
