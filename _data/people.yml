@@ -84,7 +84,7 @@ members_info:
         image: "/assets/images/art/profile/profile_master_parkgeona.jpg"
         email: "geona@g.skku.edu"  
 
-      - name: "노용준(Noh Yong Jun)"
+      - name: "노용준(Yong Jun Noh)"
         research: "AI Communications"
         image: "/assets/images/art/profile/profile_master_nohyongjun.jpg"
         email: "n0y0j@g.skku.edu"  
@@ -116,20 +116,25 @@ members_info:
         image: "/assets/images/art/profile/profile_undergraduate_yoonjungchoi.jpg"
         email: "qrs998@g.skku.edu"    
 
-      - name: "신재명(Shin Jae Myung)"
+      - name: "신재명(Jae Myung Shin)"
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_undergraduate_shinjaemyung.jpg"
-        email: "sjm5429@naver.com"    
+        email: "sjm2442@g.skku.edu"    
         
-      - name: "김수현(Kim su hyun)"
+      - name: "김수현(Su Hyun Kim)"
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_undergraduate_kimsuhyun.jpg"
         email: "rkawns5909@naver.com"    
 
-      - name: "장동환(Jang dong hwan)"
+      - name: "장동환(Dong Hwan Jang)"
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_undergraduate_jangdonghwan.jpg"
-        email: "enfbenfb1999@gmail.com"    
+        email: "enfbenfb1999@gmail.com"
+      
+      - name: "이지나(Jina Lee)"
+        research: "Wireless Communication"
+        image: "/assets/images/art/profile/profile_undergraduate_leejina.jpg"
+        email: "ejina0421@gmail.com "
         
    - title: "Alumni"
      members:
