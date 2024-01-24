@@ -130,11 +130,16 @@ members_info:
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_undergraduate_jangdonghwan.jpg"
         email: "enfbenfb1999@gmail.com"
+
+      - name: "노원우(Won Woo Ro)"
+        research: "AI Communications"
+        image: "/assets/images/art/profile/profile_undergraduate_rowonwoo.jpg"
+        email: "daoproject123@gmail.com" 
       
       - name: "이지나(Jina Lee)"
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_undergraduate_leejina.jpg"
-        email: "ejina0421@gmail.com "
+        email: "ejina0421@gmail.com"
         
    - title: "Alumni"
      members:
