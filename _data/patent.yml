@@ -81,6 +81,15 @@ international:
      - granted
 
 domestic:
+  - title: "표시 장치 및 그를 포함하는 모바일 전자 장치"
+    inventor: "김지훈, 최계원, 박지용, 정민준, 김장희, 정금동"
+    authority: "대한민국"
+    application_no: "10-2024-0003652"
+    application_date: "2024년 01월 09일"
+    filters:
+     - 2024
+     - domestic
+     - application
   - title: "재설정 가능 지능형 반사표면을 이용한 무선 전력 전송 방법 및 전자장치"
     inventor: "최계원, 웽밍턴, 박제현, 하명찬"
     authority: "대한민국"
