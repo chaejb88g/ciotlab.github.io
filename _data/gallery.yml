@@ -18,6 +18,13 @@ portfolios_area:
 
 
   portfolios:
+    - title: "Winter Graduation Ceremony 2024"
+      images: 
+       - img: "/assets/images/art/event/event_2024_Winter_Graduation_Ceremony.jpg"
+      date: "2024-02-22"
+      filters:
+       - event
+       - 2024
     - title: "Homecoming Day 2023"
       content: "We held a homecoming day in our lab with our lab colleagues, in-school researchers, and professors who have been with us since the past."
       images:

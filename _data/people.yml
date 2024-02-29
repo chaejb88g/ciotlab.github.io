@@ -2,11 +2,6 @@ members_info:
   categories:
    - title: "Phd"
      members:
-      - name: "Minh Tran Nguyen"
-        research: "Energy Harvesting, WPT, Antenna Design, Microwave Circuit, Metasurface"
-        image: "/assets/images/art/profile/profile_phd_nmtran2.jpg"
-        email: "minhtran.uet@gamil.com"
-    
       - name: "Lorenz Rullyna Ginting"
         research: "RF Energy Transfer, Beamforming"
         image: "/assets/images/art/profile/profile_phd_lorenz.jpg"
@@ -26,24 +21,15 @@ members_info:
         research: "Bio Signal Acquisition and Processing"
         image: "/assets/images/art/profile/profile_phd_denny.jpg"
         email: "denypermana@g.skku.edu"
-
-   - title: "Master"
-     members:
+      
       - name: "이경인(Kyung In Lee)"
         research: "Wireless Communications"
         image: "/assets/images/art/profile/profile_master_leekyungin.jpg"
         email: "kungin1234@naver.com"
+      
 
-      - name: "권세이(Se I Kwon)"
-        research: "Computer Vision"
-        image: "/assets/images/art/profile/profile_master_kwonsei.jpg"
-        email: "say0423@g.skku.edu"
-
-      - name: "채준병(Jun Byung Chae)"
-        research: "AI Communications"
-        image: "/assets/images/art/profile/profile_master_chaejunbyung2.jpg"
-        email: "chaejb88@g.skku.edu"
-
+   - title: "Master"
+     members:
       - name: "Ghafar Ramadhan Faqih"
         research: "Bio Signal Acquisition and Processing"
         image: "/assets/images/art/profile/profile_master_ghafar.jpg"
@@ -92,57 +78,72 @@ members_info:
       - name: "조성우(Sung Woo Cho)"
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_master_sungwoocho.jpg"
-        email: "luckycho@g.skku.edu"   
-        
-   - title: "Undergraduate"
-     members:     
-      - name: "윤준희(Jun Hui Yoon)"
-        research: "Wireless Communication"
-        image: "/assets/images/art/profile/profile_undergraduate_yoonjunhui.jpg"
-        email: "yjh990209@g.skku.edu"      
-        
-      - name: "이주원(Joo Won Lee)"
-        research: "Wireless Communication"
-        image: "/assets/images/art/profile/profile_undergraduate_leejoowon.jpg"
-        email: "joowonyeri@gmail.com"     
-        
-      - name: "성여원(Yeo Won Seong)"
-        research: "Wireless Communication"
-        image: "/assets/images/art/profile/profile_undergraduate_seongyeowon.jpg"
-        email: "min1102401@g.skku.edu"     
-              
-      - name: "최윤정(Jeong Yoon Choi)"
-        research: "Bio Signal Acquisition and Processing"
-        image: "/assets/images/art/profile/profile_undergraduate_yoonjungchoi.jpg"
-        email: "qrs998@g.skku.edu"    
+        email: "luckycho@g.skku.edu"
 
-      - name: "신재명(Jae Myung Shin)"
-        research: "Wireless Communication"
-        image: "/assets/images/art/profile/profile_undergraduate_shinjaemyung.jpg"
-        email: "sjm2442@g.skku.edu"    
-        
       - name: "김수현(Su Hyun Kim)"
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_undergraduate_kimsuhyun.jpg"
-        email: "rkawns5909@naver.com"    
-
-      - name: "장동환(Dong Hwan Jang)"
-        research: "Wireless Communication"
-        image: "/assets/images/art/profile/profile_undergraduate_jangdonghwan.jpg"
-        email: "enfbenfb1999@gmail.com"
+        email: "rkawns5909@naver.com"
 
       - name: "노원우(Won Woo Ro)"
         research: "AI Communications"
         image: "/assets/images/art/profile/profile_undergraduate_rowonwoo.jpg"
-        email: "daoproject123@gmail.com" 
+        email: "daoproject123@gmail.com"
+      
+      - name: "신재명(Jae Myung Shin)"
+        research: "Wireless Communication"
+        image: "/assets/images/art/profile/profile_undergraduate_shinjaemyung.jpg"
+        email: "sjm2442@g.skku.edu"
       
       - name: "이지나(Jina Lee)"
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_undergraduate_leejina.jpg"
         email: "ejina0421@gmail.com"
+      
+      - name: "이주원(Joo Won Lee)"
+        research: "Wireless Communication"
+        image: "/assets/images/art/profile/profile_undergraduate_leejoowon.jpg"
+        email: "joowonyeri@gmail.com" 
+        
+   - title: "Undergraduate"
+     members:               
+        
+      - name: "성여원(Yeo Won Seong)"
+        research: "Wireless Communication"
+        image: "/assets/images/art/profile/profile_undergraduate_seongyeowon.jpg"
+        email: "min1102401@g.skku.edu"
+
+      - name: "장동환(Dong Hwan Jang)"
+        research: "Wireless Communication"
+        image: "/assets/images/art/profile/profile_undergraduate_jangdonghwan.jpg"
+        email: "enfbenfb1999@gmail.com"  
         
    - title: "Alumni"
      members:
+      - name: "Minh Tran Nguyen"
+        research: "Energy Harvesting, WPT, Antenna Design, Microwave Circuit, Metasurface"
+        image: "/assets/images/art/profile/profile_phd_nmtran2.jpg"
+        email: "minhtran.uet@gamil.com"
+        education: "Ph.D"
+
+      - name: "권세이(Se I Kwon)"
+        research: "Computer Vision"
+        image: "/assets/images/art/profile/profile_master_kwonsei.jpg"
+        email: "say0423@g.skku.edu"
+        education: "Master"
+      
+      - name: "채준병(Jun Byung Chae)"
+        research: "AI Communications"
+        image: "/assets/images/art/profile/profile_master_chaejunbyung2.jpg"
+        email: "chaejb88@g.skku.edu"
+        education: "Master"
+      
+      - name: "윤준희(Jun Hui Yoon)"
+        research: "Wireless Communication"
+        image: "/assets/images/art/profile/profile_undergraduate_yoonjunhui.jpg"
+        email: "yjh990209@g.skku.edu"
+        education: "Undergraduate"
+
       - name: "김광호(Kwang Ho Kim)"
         research: "Metasurface, RF Testing"
         image: "/assets/images/art/profile/profile_master_kimkwangho.jpg"
