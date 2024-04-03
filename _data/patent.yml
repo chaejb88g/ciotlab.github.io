@@ -34,15 +34,6 @@ international:
      - 2023
      - international
      - granted
-  - title: "RIS를 활용한 무선 통신 시스템의 채널 추정 장치 및 이의 방법"
-    inventor: "최계원, Nguyen Minh Tran, Muhammad Miftahul Amri, 박제현"
-    authority: "PCT"
-    application_no: "PCT/KR2022/021680"
-    application_date: "Dec. 29, 2022."
-    filters:
-     - 2022
-     - international
-     - application
   - title: "METHOD AND DEVICE FOR TRANSMITTING AND RECEIVING BASED ON WIRELESS COMMUNICATION USING RECONFIGURABLE INTELLIGENT REFLECTING SURFACES"
     inventor: "최계원, Nguyen Minh Tran, 하명찬, 박제현"
     authority: "USA"
@@ -81,6 +72,17 @@ international:
      - granted
 
 domestic:
+  - title: "재구성가능한 지능형 표면의 데이터 전송 방법 및 그 방법이 적용된 재구성가능한 지능형 표면"
+    inventor: "최계원, 아리프 압둘 아지즈, 윤채원"
+    authority: "대한민국"
+    patent_no: "10-2654149"
+    patent_date: "2024년 03월 29일"
+    application_no: "10-2021-0187118"
+    application_date: "2021년 12월 24일"
+    filters:
+     - 2024
+     - domestic
+     - granted
   - title: "표시 장치 및 그를 포함하는 모바일 전자 장치"
     inventor: "김지훈, 최계원, 박지용, 정민준, 김장희, 정금동"
     authority: "대한민국"
@@ -108,6 +110,17 @@ domestic:
     patent_date: "2023년 12월 06일"
     application_no: "10-2021-0172730"
     application_date: "2021년 12월 06일"
+    filters:
+     - 2023
+     - domestic
+     - granted
+  - title: "RIS를 활용한 무선 통신 시스템의 채널 추정 장치 및 이의 방법"
+    inventor: "최계원, Nguyen Minh Tran, Muhammad Miftahul Amri, 박제현"
+    authority: "대한민국"
+    patent_no: "10-2588782"
+    patent_date: "2023년 10월 10일"
+    application_no: "10-2021-0192594"
+    application_date: "2021년 12월 30일"
     filters:
      - 2023
      - domestic
@@ -170,24 +183,6 @@ domestic:
     application_date: "2022년 03월 03일"
     filters:
      - 2022
-     - domestic
-     - application
-  - title: "RIS를 활용한 무선 통신 시스템의 채널 추정 장치 및 이의 방법"
-    inventor: "최계원, 무하마드 미프타훌 암리, 박제현, 웽밍턴"
-    authority: "대한민국"
-    application_no: "10-2021-0192594"
-    application_date: "2021년 12월 30일"
-    filters:
-     - 2021
-     - domestic
-     - application
-  - title: "재구성가능한 지능형 표면의 데이터 전송 방법 및 그 방법이 적용된 재구성가능한 지능형 표면"
-    inventor: "최계원, 아리프 압둘 아지즈, 윤채원"
-    authority: "대한민국"
-    application_no: "10-2021-0187118"
-    application_date: "2021년 12월 24일"
-    filters:
-     - 2021
      - domestic
      - application
   - title: "지능형 반사 표면(RIS: Reconfigurable Intelligent Surface)을 활용한 RF(Radio Frequency) 원거리 무선전력 전송 시스템에서의 최적 전송효율 달성을 위한 수신전력 기반 빔 스캐닝 알고리즘"
