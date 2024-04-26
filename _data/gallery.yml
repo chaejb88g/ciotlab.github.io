@@ -18,6 +18,14 @@ portfolios_area:
 
 
   portfolios:
+    - title: "ITRC Forum 2024"
+      images: 
+       - img: "/assets/images/art/event/event_2024_ITRC_Forum_1.jpg"
+       - img: "/assets/images/art/event/event_2024_ITRC_Forum_2.jpg"
+      date: "2024-04-19"
+      filters:
+       - event
+       - 2024
     - title: "Winter Graduation Ceremony 2024"
       images: 
        - img: "/assets/images/art/event/event_2024_Winter_Graduation_Ceremony.jpg"

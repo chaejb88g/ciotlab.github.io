@@ -72,6 +72,17 @@ international:
      - granted
 
 domestic:
+  - title: "레이더 및 메타표면을 이용한 딥러닝 기반의 키포인트 인식 시스템"
+    inventor: "최계원, 손하영, 김건우, 이상원"
+    authority: "대한민국"
+    patent_no: "10-2660187"
+    patent_date: "2024년 04월 19일"
+    application_no: "10-2021-0187103"
+    application_date: "2021년 12월 24일"
+    filters:
+     - 2024
+     - domestic
+     - granted
   - title: "재구성가능한 지능형 표면의 데이터 전송 방법 및 그 방법이 적용된 재구성가능한 지능형 표면"
     inventor: "최계원, 아리프 압둘 아지즈, 윤채원"
     authority: "대한민국"
