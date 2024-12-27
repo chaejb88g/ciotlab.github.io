@@ -109,11 +109,6 @@ members_info:
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_master_juhyeonkim.jpg"
         email: "zookson@g.skku.edu"
-
-      - name: "윤덕호(Deok Ho Yun)"
-        research: "Wireless Communication"
-        image: "/assets/images/art/profile/profile_master_deokhoyun.jpg"
-        email: "skiwer@skku.edu"
       
       - name: "정재윤(Jae Yoon Jung)"
         research: "AI Communication"
@@ -128,7 +123,10 @@ members_info:
         
    - title: "Undergraduate"
      members:       
-        
+      - name: "윤덕호(Deok Ho Yun)"
+        research: "Wireless Communication"
+        image: "/assets/images/art/profile/profile_master_deokhoyun.jpg"
+        email: "skiwer@skku.edu"
         
    - title: "Alumni"
      members:
