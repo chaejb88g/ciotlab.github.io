@@ -3,6 +3,8 @@ categories:
       filter: "international"
     - title: "Domestic"
       filter: "domestic"
+    - title: "2024"
+      filter: "2024"
     - title: "2023"
       filter: "2023"
     - title: "2022"
@@ -39,13 +41,29 @@ categories:
       filter: "2004"
 
 international:
+  - title: "Realization of Wireless Power and Information Coexistence Through Reconfigurable Intelligent Surface: A Practical Approach With Experimental Validation"
+    author: "N. Minh Tran, M. Miftahul Amri, J. Hyeon Park, D. In Kim and K. W. Choi"
+    journal: "IEEE Internet of Things Journal"
+    details: "Volume: 11, Issue: 18, 15 September 2024, doi: 10.1109/JIOT.2024.3409168"
+    link: "https://ieeexplore.ieee.org/document/10547218"
+    filters:
+     - 2024
+     - international
+  - title: "Wireless Information and Energy Transfer in the Era of 6G Communications"
+    author: "C. Psomas, K. Ntougias, N. Shanin, D. Xu, K. Mayer, N. Minh Tran, L. Cottatellucci, K. W. Choi, D. I. Kim, R. Schober and I. Krikidis"
+    journal: "Proceedings of the IEEE"
+    details: "Volume: 112, Issue: 7, July 2024, doi: 10.1109/JPROC.2024.3395178"
+    link: "https://ieeexplore.ieee.org/document/10534278"
+    filters:
+     - 2024
+     - international
   - title: "Learning Visual Clue for UWB-Based Multi-Person Pose Estimation"
     author: "Seunghyun Kim, Seunghwan Shin, Sangwon Lee, Kaewon Choi, Yusung Kim"
     journal: "Elsevier"
     details: "Volume: 284, 25 January 2024, 111289, doi: https://doi.org/10.1016/j.knosys.2023.111289"
     link: "https://www.sciencedirect.com/science/article/pii/S0950705123010377"
     filters:
-     - 2023
+     - 2024
      - international
   - title: "Efficient Demodulation Algorithms for MIMO-LoRa"
     author: "Jae-Mo Kang, Kae Won Choi"
