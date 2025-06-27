@@ -6,11 +6,6 @@ members_info:
         research: "RF Energy Transfer, Beamforming"
         image: "/assets/images/art/profile/profile_phd_lorenz.jpg"
         email: "lorenzgins@gmail.com"
-      
-      - name: "박제현(Je Hyeon Park)"
-        research: "RF wireless power transfer, Metasurface"
-        image: "/assets/images/art/profile/profile_phd_parkjaehyun2.jpg"
-        email: "jehyeonpark94@gmail.com"
 
       - name: "Muhammad Miftahul Amri"
         research: "Metasurface, Circuit design"
@@ -18,47 +13,32 @@ members_info:
         email: "Muhammadma97@gmail.com"
 
       - name: "Denny Permana"
-        research: "Bio Signal Acquisition and Processing"
+        research: "Robotic AI & Digital Twin, RF SLAM"
         image: "/assets/images/art/profile/profile_phd_denny.jpg"
         email: "denypermana@g.skku.edu"
       
       - name: "이경인(Kyung In Lee)"
         research: "Wireless Communications"
         image: "/assets/images/art/profile/profile_master_leekyungin.jpg"
-        email: "kungin1234@naver.com"
+        email: "kungin5713@skku.edu"
       
-
-   - title: "Master"
-     members:
-      - name: "Ghafar Ramadhan Faqih"
-        research: "Bio Signal Acquisition and Processing"
-        image: "/assets/images/art/profile/profile_master_ghafar.jpg"
-        email: "ghafaramadhan@gmail.com"
-        
+      - name: "정민준(Min Jun Jeong)"
+        research: "Sensor Intelligence"
+        image: "/assets/images/art/profile/profile_undergraduate_jungminjun.jpg"
+        email: "minjun96@o365.skku.edu"
+      
       - name: "김근호(Geun Ho Kim)"
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_undergraduate_kimkeunho.jpg"
         email: "kgh30312@g.skku.edu"
+      
 
-      - name: "박수영(Su Young Park)"
-        research: "Wireless Communication"
-        image: "/assets/images/art/profile/profile_master_parksuyoung2.jpg"
-        email: "suyoung6918@gmail.com"
-
-      - name: "조준희(Jun Hee Jo)"
-        research: "Sequential Probability Ratio Test"
-        image: "/assets/images/art/profile/profile_undergraduate_jojunhee.jpg"
-        email: "jhcho9811@naver.com"
-        
-      - name: "박지용(Ji Yong Park)"
-        research: "Sensor Intelligence"
-        image: "/assets/images/art/profile/profile_undergraduate_parkjiyong.jpg"
-        email: "qkr1020@skku.edu"         
-                
-      - name: "정민준(Min Jun Jeong)"
-        research: "Sensor Intelligence"
-        image: "/assets/images/art/profile/profile_undergraduate_jungminjun.jpg"
-        email: "minjun96@o365.skku.edu"   
+   - title: "Master"
+     members:
+      # - name: "Ghafar Ramadhan Faqih"
+      #   research: "Bio Signal Acquisition and Processing"
+      #   image: "/assets/images/art/profile/profile_master_ghafar.jpg"
+      #   email: "ghafaramadhan@gmail.com"            
 
       - name: "노용준(Yong Jun Noh)"
         research: "AI Communications"
@@ -115,10 +95,15 @@ members_info:
         image: "/assets/images/art/profile/profile_master_jaeyoonjung.jpg"
         email: "jungjy1018@g.skku.edu"
       
-      - name: "이상유(Sang You Lee)"
+      - name: "이상유(Sang Yoo Lee)"
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_master_sangyoolee.jpg"
         email: "sangyu0422@g.skku.edu"
+
+      - name: "문유현(Moon Yu Hyun)"
+        research: "AI Communication"
+        image: "/assets/images/art/profile/profile_master_moonyuhyun.jpg"
+        email: "yuhyun.moon@g.skku.edu"
 
         
    - title: "Undergraduate"
@@ -130,6 +115,36 @@ members_info:
         
    - title: "Alumni"
      members:
+      - name: "박제현(Je Hyeon Park)"
+        research: "RF wireless power transfer, Metasurface"
+        image: "/assets/images/art/profile/profile_phd_parkjaehyun2.jpg"
+        email: "jehyeonpark94@gmail.com"
+        education: "Ph.D"
+      
+      - name: "Minh Tran Nguyen"
+        research: "Energy Harvesting, WPT, Antenna Design, Microwave Circuit, Metasurface"
+        image: "/assets/images/art/profile/profile_phd_nmtran2.jpg"
+        email: "minhtran.uet@gamil.com"
+        education: "Ph.D"
+
+      - name: "박수영(Su Young Park)"
+        research: "Wireless Communication"
+        image: "/assets/images/art/profile/profile_master_parksuyoung2.jpg"
+        email: "suyoung6918@gmail.com"
+        education: "Master"
+
+      - name: "조준희(Jun Hee Jo)"
+        research: "Sequential Probability Ratio Test"
+        image: "/assets/images/art/profile/profile_undergraduate_jojunhee.jpg"
+        email: "jhcho9811@naver.com"
+        education: "Master" 
+        
+      - name: "박지용(Ji Yong Park)"
+        research: "Sensor Intelligence"
+        image: "/assets/images/art/profile/profile_undergraduate_parkjiyong.jpg"
+        email: "qkr1020@skku.edu"
+        education: "Master" 
+
       - name: "김성호(Seong Ho Kim)"
         research: "AI Communications"
         image: "/assets/images/art/profile/profile_master_kimseongho.jpg"
@@ -147,12 +162,6 @@ members_info:
         image: "/assets/images/art/profile/profile_undergraduate_seongyeowon.jpg"
         email: "min1102401@g.skku.edu"
         education: "Undergraduate"
-
-      - name: "Minh Tran Nguyen"
-        research: "Energy Harvesting, WPT, Antenna Design, Microwave Circuit, Metasurface"
-        image: "/assets/images/art/profile/profile_phd_nmtran2.jpg"
-        email: "minhtran.uet@gamil.com"
-        education: "Ph.D"
 
       - name: "권세이(Se I Kwon)"
         research: "Computer Vision"

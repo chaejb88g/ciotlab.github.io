@@ -37,6 +37,30 @@ categories:
       filter: "2003"
 
 conferences:
+  - title: "Transformer-Based Site-Specific Channel Estimation"
+    author: "Noh, Yong Jun and Choi, Kae Won"
+    conference: "2025 IEEE Wireless Communications and Networking Conference (WCNC)"
+    details: "doi: 10.1109/WCNC61545.2025.10978364"
+    link: "https://ieeexplore.ieee.org/document/10978364"
+    filters:
+     - 2025
+     - international
+  - title: "An Experimental Proof of Concept for OFDM-based ISAC System Utilizing Stepped-Carrier and TDM MIMO scheme"
+    author: "Park, Je Hyeon and Kim, Suhyun and Amri, Muhammad Miftahul and Tran, Nguyen Minh and Kim, Dong In and Choi, Kae Won"
+    conference: "2025 IEEE Wireless Communications and Networking Conference (WCNC)"
+    details: "doi: 10.1109/WCNC61545.2025.10978478"
+    link: "https://ieeexplore.ieee.org/document/10978478"
+    filters:
+     - 2025
+     - international
+  - title: "An Experimental Proof of Concept for OFDM-based ISAC System Utilizing Stepped-Carrier and TDM MIMO scheme"
+    author: "Lee, Kyung In and Shin, Jae Myung and Kim, Dong In and Choi, Kae Won"
+    conference: "2024 IEEE 25th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)"
+    details: "doi: 10.1109/SPAWC60668.2024.10693992"
+    link: "https://ieeexplore.ieee.org/document/10693992"
+    filters:
+     - 2024
+     - international
   - title: "Hierarchical Transformer for Brain Computer Interface"
     author: "Permana Deny, Kae Won Choi"
     conference: "2023 11th International Winter Conference on Brain-Computer Interface (BCI)"

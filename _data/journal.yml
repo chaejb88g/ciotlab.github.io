@@ -41,6 +41,22 @@ categories:
       filter: "2004"
 
 international:
+  - title: "Reconfigurable Intelligent Surface Direct Data Modulation With Adaptive Beam Steering Backscatter Communication"
+    author: "Amri, Muhammad Miftahul and Aziz, Arif Abdul and Tran, Nguyen Minh and Park, Je Hyeon and Kim, Dong In and Choi, Kae Won"
+    journal: "IEEE Internet of Things Journal"
+    details: "Volume: 12, Issue: 11, 01 June 2025, doi: 10.1109/JIOT.2025.3528765"
+    link: "https://ieeexplore.ieee.org/document/10838608"
+    filters:
+     - 2025
+     - international
+  - title: "Uplink MIMO Communications With RIS-Integrated Base Station: Modeling and Experiments"
+    author: "Hyeon Park, Je and Hyun Kim, Su and Miftahul Amri, Muhammad and Minh Tran, Nguyen and In Kim, Dong and Choi, Kae Won"
+    journal: "IEEE Internet of Things Journal"
+    details: "Volume: 12, Issue: 10, 15 May 2025, doi: 10.1109/JIOT.2024.3524256"
+    link: "https://ieeexplore.ieee.org/document/10838604"
+    filters:
+     - 2025
+     - international
   - title: "Realization of Wireless Power and Information Coexistence Through Reconfigurable Intelligent Surface: A Practical Approach With Experimental Validation"
     author: "N. Minh Tran, M. Miftahul Amri, J. Hyeon Park, D. In Kim and K. W. Choi"
     journal: "IEEE Internet of Things Journal"
