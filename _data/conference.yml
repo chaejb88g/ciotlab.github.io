@@ -53,6 +53,14 @@ conferences:
     filters:
      - 2025
      - international
+  - title: "High-Precision Digital Twin Platform Based on Ray Tracing Simulation"
+    author: "Noh, Yong Jun and Choi, Kae Won"
+    conference: "2024 15th International Conference on Information and Communication Technology Convergence (ICTC)"
+    details: "doi: 10.1109/ICTC62082.2024.10827549"
+    link: "https://ieeexplore.ieee.org/document/10827549"
+    filters:
+     - 2025
+     - international
   - title: "An Experimental Proof of Concept for OFDM-based ISAC System Utilizing Stepped-Carrier and TDM MIMO scheme"
     author: "Lee, Kyung In and Shin, Jae Myung and Kim, Dong In and Choi, Kae Won"
     conference: "2024 IEEE 25th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)"
