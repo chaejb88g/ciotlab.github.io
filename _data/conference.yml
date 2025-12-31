@@ -38,7 +38,7 @@ categories:
 
 conferences:
   - title: "Transformer-Based Site-Specific Channel Estimation"
-    author: "Noh, Yong Jun and Choi, Kae Won"
+    author: "Y. J. Noh and K. W. Choi"
     conference: "2025 IEEE Wireless Communications and Networking Conference (WCNC)"
     details: "doi: 10.1109/WCNC61545.2025.10978364"
     link: "https://ieeexplore.ieee.org/document/10978364"
@@ -46,7 +46,7 @@ conferences:
      - 2025
      - international
   - title: "An Experimental Proof of Concept for OFDM-based ISAC System Utilizing Stepped-Carrier and TDM MIMO scheme"
-    author: "Park, Je Hyeon and Kim, Suhyun and Amri, Muhammad Miftahul and Tran, Nguyen Minh and Kim, Dong In and Choi, Kae Won"
+    author: "J. H. Park, S. H. Kim, M. M. Amri, N. M. Tran, D. I. Kim and K. W. Choi"
     conference: "2025 IEEE Wireless Communications and Networking Conference (WCNC)"
     details: "doi: 10.1109/WCNC61545.2025.10978478"
     link: "https://ieeexplore.ieee.org/document/10978478"
@@ -54,7 +54,7 @@ conferences:
      - 2025
      - international
   - title: "High-Precision Digital Twin Platform Based on Ray Tracing Simulation"
-    author: "Noh, Yong Jun and Choi, Kae Won"
+    author: "Y. J. Noh and K. W. Choi"
     conference: "2024 15th International Conference on Information and Communication Technology Convergence (ICTC)"
     details: "doi: 10.1109/ICTC62082.2024.10827549"
     link: "https://ieeexplore.ieee.org/document/10827549"
@@ -62,7 +62,7 @@ conferences:
      - 2025
      - international
   - title: "An Experimental Proof of Concept for OFDM-based ISAC System Utilizing Stepped-Carrier and TDM MIMO scheme"
-    author: "Lee, Kyung In and Shin, Jae Myung and Kim, Dong In and Choi, Kae Won"
+    author: "K. I. Lee, J. M. Shin, D. I. Kim and K. W. Choi"
     conference: "2024 IEEE 25th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)"
     details: "doi: 10.1109/SPAWC60668.2024.10693992"
     link: "https://ieeexplore.ieee.org/document/10693992"

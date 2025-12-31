@@ -7,11 +7,6 @@ members_info:
         image: "/assets/images/art/profile/profile_phd_lorenz.jpg"
         email: "lorenzgins@gmail.com"
 
-      - name: "Muhammad Miftahul Amri"
-        research: "Metasurface, Circuit design"
-        image: "/assets/images/art/profile/profile_phd_amri.jpg"
-        email: "Muhammadma97@gmail.com"
-
       - name: "Denny Permana"
         research: "Robotic AI & Digital Twin, RF SLAM"
         image: "/assets/images/art/profile/profile_phd_denny.jpg"
@@ -31,14 +26,6 @@ members_info:
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_undergraduate_kimkeunho.jpg"
         email: "kgh30312@g.skku.edu"
-      
-
-   - title: "Master"
-     members:
-      # - name: "Ghafar Ramadhan Faqih"
-      #   research: "Bio Signal Acquisition and Processing"
-      #   image: "/assets/images/art/profile/profile_master_ghafar.jpg"
-      #   email: "ghafaramadhan@gmail.com"            
 
       - name: "노용준(Yong Jun Noh)"
         research: "AI Communications"
@@ -54,37 +41,30 @@ members_info:
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_undergraduate_kimsuhyun.jpg"
         email: "rkawns5909@naver.com"
-
-      - name: "노원우(Won Woo Ro)"
-        research: "AI Communications"
-        image: "/assets/images/art/profile/profile_undergraduate_rowonwoo.jpg"
-        email: "daoproject123@gmail.com"
       
       - name: "신재명(Jae Myung Shin)"
         research: "Indoor Human Detection"
         image: "/assets/images/art/profile/profile_undergraduate_shinjaemyung.jpg"
         email: "sjm2442@g.skku.edu"
       
-      - name: "이지나(Jina Lee)"
-        research: "Wireless Communication"
-        image: "/assets/images/art/profile/profile_undergraduate_leejina.jpg"
-        email: "ejina0421@gmail.com"
-      
       - name: "이주원(Joo Won Lee)"
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_undergraduate_leejoowon.jpg"
         email: "joowonyeri@gmail.com"
-      
-      - name: "Raihan Muhammad Syahran"
-        research: "AI Communications"
-        image: "/assets/images/art/profile/profile_master_raihan.jpg"
-        email: "raihansyah13@g.skku.edu"
 
       - name: "장동환(Dong Hwan Jang)"
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_undergraduate_jangdonghwan.jpg"
         email: "enfbenfb1999@gmail.com"
+      
 
+   - title: "Master"
+     members:
+      # - name: "Ghafar Ramadhan Faqih"
+      #   research: "Bio Signal Acquisition and Processing"
+      #   image: "/assets/images/art/profile/profile_master_ghafar.jpg"
+      #   email: "ghafaramadhan@gmail.com"            
+      
       - name: "김주현(Ju Hyeon Kim)"
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_master_juhyeonkim.jpg"
@@ -104,17 +84,27 @@ members_info:
         research: "AI Communication"
         image: "/assets/images/art/profile/profile_master_moonyuhyun.jpg"
         email: "yuhyun.moon@g.skku.edu"
-
-        
-   - title: "Undergraduate"
-     members:       
+      
       - name: "윤덕호(Deok Ho Yun)"
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_master_deokhoyun.jpg"
         email: "skiwer@skku.edu"
+
+   - title: "Undergraduate"
+     members:       
+      # - name: "윤덕호(Deok Ho Yun)"
+      #   research: "Wireless Communication"
+      #   image: "/assets/images/art/profile/profile_master_deokhoyun.jpg"
+      #   email: "skiwer@skku.edu"
         
    - title: "Alumni"
      members:
+      - name: "Muhammad Miftahul Amri"
+        research: "Metasurface, Circuit design"
+        image: "/assets/images/art/profile/profile_phd_amri.jpg"
+        email: "Muhammadma97@gmail.com"
+        education: "Ph.D"
+
       - name: "박제현(Je Hyeon Park)"
         research: "RF wireless power transfer, Metasurface"
         image: "/assets/images/art/profile/profile_phd_parkjaehyun2.jpg"
@@ -126,6 +116,24 @@ members_info:
         image: "/assets/images/art/profile/profile_phd_nmtran2.jpg"
         email: "minhtran.uet@gamil.com"
         education: "Ph.D"
+
+      - name: "노원우(Won Woo Ro)"
+        research: "AI Communications"
+        image: "/assets/images/art/profile/profile_undergraduate_rowonwoo.jpg"
+        email: "daoproject123@gmail.com"
+        education: "Master"
+
+      - name: "이지나(Jina Lee)"
+        research: "Wireless Communication"
+        image: "/assets/images/art/profile/profile_undergraduate_leejina.jpg"
+        email: "ejina0421@gmail.com"
+        education: "Master"
+
+      - name: "Raihan Muhammad Syahran"
+        research: "AI Communications"
+        image: "/assets/images/art/profile/profile_master_raihan.jpg"
+        email: "raihansyah13@g.skku.edu"
+        education: "Master"
 
       - name: "박수영(Su Young Park)"
         research: "Wireless Communication"
