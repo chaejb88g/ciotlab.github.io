@@ -7,10 +7,10 @@ members_info:
         image: "/assets/images/art/profile/profile_phd_lorenz.jpg"
         email: "lorenzgins@gmail.com"
 
-      - name: "Denny Permana"
+      - name: "NA DENY"
         research: "Robotic AI & Digital Twin, RF SLAM"
         image: "/assets/images/art/profile/profile_phd_denny.jpg"
-        email: "denypermana@g.skku.edu"
+        email: "denyna@skku.edu"
       
       - name: "이경인(Kyung In Lee)"
         research: "Wireless Communications"
@@ -27,15 +27,15 @@ members_info:
         image: "/assets/images/art/profile/profile_undergraduate_kimkeunho.jpg"
         email: "kgh30312@g.skku.edu"
 
-      - name: "노용준(Yong Jun Noh)"
-        research: "AI Communications"
-        image: "/assets/images/art/profile/profile_master_nohyongjun.jpg"
-        email: "n0y0j@g.skku.edu"  
-
       - name: "조성우(Sung Woo Cho)"
         research: "Wireless Communication"
         image: "/assets/images/art/profile/profile_master_sungwoocho.jpg"
         email: "luckycho@g.skku.edu"
+      
+      - name: "노용준(Yong Jun Noh)"
+        research: "AI Communications"
+        image: "/assets/images/art/profile/profile_master_nohyongjun.jpg"
+        email: "n0y0j@g.skku.edu"  
 
       - name: "김수현(Su Hyun Kim)"
         research: "Wireless Communication"
