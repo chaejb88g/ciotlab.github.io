@@ -23,12 +23,12 @@ members_info:
         email: "minjun96@o365.skku.edu"
       
       - name: "김근호(Geun Ho Kim)"
-        research: "Wireless Communication"
+        research: "Wireless Communications"
         image: "/assets/images/art/profile/profile_undergraduate_kimkeunho.jpg"
         email: "kgh30312@g.skku.edu"
 
       - name: "조성우(Sung Woo Cho)"
-        research: "Wireless Communication"
+        research: "Wireless Communications"
         image: "/assets/images/art/profile/profile_master_sungwoocho.jpg"
         email: "luckycho@g.skku.edu"
       
@@ -38,7 +38,7 @@ members_info:
         email: "n0y0j@g.skku.edu"  
 
       - name: "김수현(Su Hyun Kim)"
-        research: "Wireless Communication"
+        research: "Wireless Communications"
         image: "/assets/images/art/profile/profile_undergraduate_kimsuhyun.jpg"
         email: "rkawns5909@naver.com"
       
@@ -48,14 +48,19 @@ members_info:
         email: "sjm2442@g.skku.edu"
       
       - name: "이주원(Joo Won Lee)"
-        research: "Wireless Communication"
+        research: "Wireless Communications"
         image: "/assets/images/art/profile/profile_undergraduate_leejoowon.jpg"
         email: "joowonyeri@gmail.com"
 
       - name: "장동환(Dong Hwan Jang)"
-        research: "Wireless Communication"
+        research: "Wireless Communications"
         image: "/assets/images/art/profile/profile_undergraduate_jangdonghwan.jpg"
         email: "enfbenfb1999@gmail.com"
+      
+      - name: "Naufal Zaidan Nabhan"
+        research: "AI Communications"
+        image: "/assets/images/art/profile/profile_phd_zaidan.jpg"
+        email: "naufalz6@skku.edu" 
       
 
    - title: "Master"
@@ -66,29 +71,34 @@ members_info:
       #   email: "ghafaramadhan@gmail.com"            
       
       - name: "김주현(Ju Hyeon Kim)"
-        research: "Wireless Communication"
+        research: "Wireless Communications"
         image: "/assets/images/art/profile/profile_master_juhyeonkim.jpg"
         email: "zookson@g.skku.edu"
       
       - name: "정재윤(Jae Yoon Jung)"
-        research: "AI Communication"
+        research: "AI Communications"
         image: "/assets/images/art/profile/profile_master_jaeyoonjung.jpg"
         email: "jungjy1018@g.skku.edu"
       
       - name: "이상유(Sang Yoo Lee)"
-        research: "Wireless Communication"
+        research: "Wireless Communications"
         image: "/assets/images/art/profile/profile_master_sangyoolee.jpg"
         email: "sangyu0422@g.skku.edu"
 
       - name: "문유현(Moon Yu Hyun)"
-        research: "AI Communication"
+        research: "AI Communications"
         image: "/assets/images/art/profile/profile_master_moonyuhyun.jpg"
         email: "yuhyun.moon@g.skku.edu"
       
       - name: "윤덕호(Deok Ho Yun)"
-        research: "Wireless Communication"
+        research: "Wireless Communications"
         image: "/assets/images/art/profile/profile_master_deokhoyun.jpg"
         email: "skiwer@skku.edu"
+      
+      - name: "김진오(Jin O Kim)"
+        research: "Wireless Communications"
+        image: "/assets/images/art/profile/profile_master_jinokim.jpg"
+        email: "jino1996@g.skku.edu"
 
    - title: "Undergraduate"
      members:       

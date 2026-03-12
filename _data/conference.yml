@@ -3,6 +3,12 @@ categories:
       filter: "international"
     - title: "Domestic"
       filter: "domestic"
+    - title: "2026"
+      filter: "2026"
+    - title: "2025"
+      filter: "2025"
+    - title: "2024"
+      filter: "2024"
     - title: "2023"
       filter: "2023"
     - title: "2022"
@@ -37,6 +43,46 @@ categories:
       filter: "2003"
 
 conferences:
+  - title: "Robust Indoor Human Detection and Tracking via Fusion of mmWave Radar and Vision Sensor"
+    author: "J. M. Shin, J. Y. Jung and K. W. Choi"
+    conference: "2025 IEEE International Conference on Information and Communication Technology Convergence (ICTC)"
+    details: "doi: 10.1109/ICTC66702.2025.11387916"
+    link: "https://ieeexplore.ieee.org/document/11387916"
+    filters:
+     - 2025
+     - international
+  - title: "A Large-Scale End-to-End Wireless Network Simulation Framework with Ray Tracing-Based Channel Modeling"
+    author: "Y. J. Noh and K. W. Choi"
+    conference: "2025 IEEE International Conference on Information and Communication Technology Convergence (ICTC)"
+    details: "doi: 10.1109/ICTC66702.2025.11387889"
+    link: "https://ieeexplore.ieee.org/document/11387889"
+    filters:
+     - 2025
+     - international
+  - title: "Parameter-Efficient Transfer Learning for DNN-based Channel Estimation: Adapter vs LoRA Comparison"
+    author: "J. W. Lee and K. W. Choi"
+    conference: "2025 IEEE International Conference on Information and Communication Technology Convergence (ICTC)"
+    details: "doi: 10.1109/ICTC66702.2025.11388362"
+    link: "https://ieeexplore.ieee.org/document/11388362"
+    filters:
+     - 2025
+     - international
+  - title: "Joint Phase noise and Channel Estimation for DFT-s-OFDM in Sub-THz band"
+    author: "D. H. Jang, G. H. Kim and K. W. Choi"
+    conference: "2025 IEEE Vehicular Technology Conference (VTC2025-Fall)"
+    details: "doi: 10.1109/VTC2025-Fall65116.2025.11309881"
+    link: "https://ieeexplore.ieee.org/abstract/document/11309881"
+    filters:
+     - 2025
+     - international
+  - title: "Deep Reinforcement Learning-Based Combinatorial Optimization Solver to Address Wireless Resource Allocation Problem"
+    author: "R. M. Syahran, W. W. Ro and K. W. Choi"
+    conference: "2025 IEEE Vehicular Technology Conference (VTC2025-Fall)"
+    details: "doi: 10.1109/VTC2025-Fall65116.2025.11310656"
+    link: "https://ieeexplore.ieee.org/abstract/document/11310656"
+    filters:
+     - 2025
+     - international
   - title: "Transformer-Based Site-Specific Channel Estimation"
     author: "Y. J. Noh and K. W. Choi"
     conference: "2025 IEEE Wireless Communications and Networking Conference (WCNC)"
