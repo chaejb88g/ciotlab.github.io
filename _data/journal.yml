@@ -45,6 +45,15 @@ categories:
       filter: "2004"
 
 international:
+  - title: "Joint Phase Noise and Channel Estimation Technique for DFT-s-OFDM in Sub-THz band"
+    author: "G. H. Kim, D. H. Jang and K. W. Choi"
+    journal: "IEEE Internet of Things Journal"
+    details: "Early Acess, 26 March 2026, doi: 10.1109/JIOT.2026.3677804"
+    link: "https://ieeexplore.ieee.org/document/11456670"
+    filters:
+     - 2026
+     - international
+
   - title: "Network-Wide Site-Specific Neural Channel Estimation Technique for MIMO-OFDM System Based on Masked Transformer"
     author: "Y. J. Noh and K. W. Choi"
     journal: "IEEE Transactions on Vehicular Technology"
