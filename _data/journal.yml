@@ -45,10 +45,19 @@ categories:
       filter: "2004"
 
 international:
+  - title: "Two-Tier PEFT Adapter Switching for Environment- and SNR-Adaptive Channel Estimation"
+    author: "J. W. LEE and K. W. Choi"
+    journal: "IEEE Open Journal of the Communications Society"
+    details: "Volume: 7, 28 May 2026, doi: 10.1109/OJCOMS.2026.3697928"
+    link: "https://ieeexplore.ieee.org/document/11538148"
+    filters:
+     - 2026
+     - international
+
   - title: "Joint Phase Noise and Channel Estimation Technique for DFT-s-OFDM in Sub-THz band"
     author: "G. H. Kim, D. H. Jang and K. W. Choi"
     journal: "IEEE Internet of Things Journal"
-    details: "Early Acess, 26 March 2026, doi: 10.1109/JIOT.2026.3677804"
+    details: "Volume: 13, Issue: 12, 15 June 2026, doi: 10.1109/JIOT.2026.3677804"
     link: "https://ieeexplore.ieee.org/document/11456670"
     filters:
      - 2026

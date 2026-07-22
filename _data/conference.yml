@@ -43,6 +43,14 @@ categories:
       filter: "2003"
 
 conferences:
+  - title: "MU-MIMO ISAC Transmit Signal Design for Radar Data Cube Reconstruction"
+    author: "K. I. Lee, J. H. Kim and K. W. Choi"
+    conference: "2026 IEEE International Conference on Communications (ICC)"
+    details: "doi: 10.1109/ICC59461.2026.11587347"
+    link: "https://ieeexplore.ieee.org/document/11587347"
+    filters:
+     - 2026
+     - international
   - title: "Robust Indoor Human Detection and Tracking via Fusion of mmWave Radar and Vision Sensor"
     author: "J. M. Shin, J. Y. Jung and K. W. Choi"
     conference: "2025 IEEE International Conference on Information and Communication Technology Convergence (ICTC)"
