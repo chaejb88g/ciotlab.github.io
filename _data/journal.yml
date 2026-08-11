@@ -45,8 +45,26 @@ categories:
       filter: "2004"
 
 international:
+  - title: "Environment-Aware Generalized Wireless Localization via Transformer"
+    author: "Y. J. Noh and K. W. Choi"
+    journal: "IEEE Internet of Things Journal"
+    details: "Early Acess, 29 July 2026, doi: 10.1109/JIOT.2026.3717998"
+    link: "https://ieeexplore.ieee.org/document/11627872"
+    filters:
+     - 2026
+     - international
+
+  - title: "Radar Tracking Transformer for Privacy-Preserving Human 3D Box and Skeleton Tracking on mmWave Point Clouds"
+    author: "J. Y. Jung, J. M. Shin, J. H. Kim, D. H. Yun and K. W. Choi"
+    journal: "IEEE Transactions on Consumer Electronics"
+    details: "Early Acess, 22 July 2026, doi: 10.1109/TCE.2026.3715821"
+    link: "https://ieeexplore.ieee.org/document/11618696"
+    filters:
+     - 2026
+     - international
+
   - title: "Two-Tier PEFT Adapter Switching for Environment- and SNR-Adaptive Channel Estimation"
-    author: "J. W. LEE and K. W. Choi"
+    author: "J. W. Lee and K. W. Choi"
     journal: "IEEE Open Journal of the Communications Society"
     details: "Volume: 7, 28 May 2026, doi: 10.1109/OJCOMS.2026.3697928"
     link: "https://ieeexplore.ieee.org/document/11538148"
